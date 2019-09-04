@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker" size="0.150000 0.150000" />
+    <ImageTarget name="TV" size="0.055000 0.054505" />
+    <ImageTarget name="cabbage_big" size="0.150000 0.150000" />
+    <ImageTarget name="umbrella" size="0.065000 0.065000" />
+    <ImageTarget name="cabbage" size="0.065000 0.065000" />
+    <ImageTarget name="smoke" size="0.095500 0.054117" />
+    <ImageTarget name="kururu" size="0.065000 0.065000" />
+    <ImageTarget name="HQ_head_img" size="0.060000 0.060000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: e8ff9f262fb2a4d65a54b256b15e0fcf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a1_ceiling_1
+    100002: a1_ceiling_2
+    100004: a1_ceiling_3
+    100006: a1_ceiling_front
+    100008: a1_fence
+    100010: a1_front_stair
+    100012: a1_front_stair003
+    100014: a1_front_stair_edge
+    100016: a1_kitchen_roof
+    100018: a2_base
+    100020: a2_floor_coal_1
+    100022: a2_floor_coal_2
+    100024: a2_floor_deco
+    100026: a2_floor_kitchen
+    100028: a2_floor_living
+    100030: a2_floor_sky_well
+    100032: a2_floor_storage_1
+    100034: a2_floor_storage_2
+    100036: back
+    100038: //RootNode
+    100040: basement_out_window
+    100042: basement_out_window001
+    100044: basement_stair_to_road
+    100046: basement_yard_door
+    100048: basement_yard_door001
+    100050: Box003
+    100052: Box006
+    100054: Box007
+    100056: Box008
+    100058: Box009
+    100060: Box010
+    100062: Box011
+    100064: Box012
+    100066: Box013
+    100068: Box014
+    100070: Box015
+    100072: Box016
+    100074: Box017
+    100076: Box018
+    100078: Box019
+    100080: coal_wall_1_in
+    100082: coal_wall_1_out
+    100084: coal_wall_3
+    100086: coal_wall_4
+    100088: coal_wall_middle
+    100090: deco_closet
+    100092: deco_closet_door_1
+    100094: deco_closet_door_2
+    100096: deco_closet_door_frame
+    100098: deco_door
+    100100: deco_door_door
+    100102: deco_door_frame
+    100104: deco_door_frame_out
+    100106: deco_wall_1_in
+    100108: deco_wall_1_in_foot
+    100110: deco_wall_1_out
+    100112: deco_wall_2_in
+    100114: deco_wall_2_in_foot
+    100116: deco_wall_2_out
+    100118: deco_wall_3_in
+    100120: deco_wall_3_in_foot
+    100122: deco_wall_4_in
+    100124: deco_wall_4_in_foot
+    100126: deco_wall_4_out
+    100128: deco_wall_4_out_foot
+    100130: deco_window
+    100132: door
+    100134: door 1
+    100136: fire_place_dining
+    100138: fire_place_dining001
+    100140: fire_place_in
+    100142: fire_place_in001
+    100144: fire_place_out
+    100146: fire_place_out001
+    100148: foot
+    100150: frame
+    100152: frame 1
+    100154: frame 2
+    100156: frame 3
+    100158: frame001
+    100160: frame_002
+    100162: frame_1
+    100164: frame_1 1
+    100166: frame_1 2
+    100168: frame_1 3
+    100170: frame_1 4
+    100172: frame_2
+    100174: frame_2 1
+    100176: frame_down
+    100178: frame_down001
+    100180: frame_up
+    100182: frame_up001
+    100184: front
+    100186: front_door_edge
+    100188: front_door_wall
+    100190: front_wall_2
+    100192: front_wall_4
+    100194: front_wall_middle_in
+    100196: front_wall_middle_out
+    100198: glass
+    100200: glass 1
+    100202: glass001
+    100204: glass001 1
+    100206: glass_002
+    100208: glass_1
+    100210: glass_1 1
+    100212: glass_1 2
+    100214: glass_2
+    100216: glass_down
+    100218: glass_down001
+    100220: glass_up
+    100222: glass_up 1
+    100224: glass_up001
+    100226: hallway_2_wall_4_in
+    100228: hallway_2_wall_4_in_foot
+    100230: hallway_2_wall_4_out
+    100232: hallway_door
+    100234: hallway_door_wall
+    100236: hallway_wall_4_out
+    100238: handle
+    100240: handle 1
+    100242: handle 2
+    100244: handle 3
+    100246: handle001
+    100248: handle001 1
+    100250: handle002
+    100252: handle003
+    100254: handle004
+    100256: handle005
+    100258: handle006
+    100260: handle_005
+    100262: handle_005 1
+    100264: handle_006
+    100266: handle_006 1
+    100268: handle_007
+    100270: handle_007 1
+    100272: handle_008
+    100274: handle_008 1
+    100276: handle_009
+    100278: handle_010
+    100280: handle_011
+    100282: handle_012
+    100284: handle_013
+    100286: handle_014
+    100288: handle_015
+    100290: handle_016
+    100292: handle_017
+    100294: handle_018
+    100296: handle_019
+    100298: handle_020
+    100300: handle_021
+    100302: handle_022
+    100304: handle_023
+    100306: handle_024
+    100308: handle_025
+    100310: handle_026
+    100312: handle_027
+    100314: handle_028
+    100316: handle_1
+    100318: handle_1 1
+    100320: handle_1 2
+    100322: handle_1 3
+    100324: handle_2
+    100326: handle_2 1
+    100328: handle_2 2
+    100330: handle_2 3
+    100332: handle_3
+    100334: handle_3 1
+    100336: handle_3 2
+    100338: handle_3 3
+    100340: handle_4
+    100342: handle_4 1
+    100344: handle_4 2
+    100346: handle_4 3
+    100348: kitchen_big_door
+    100350: kitchen_door_small
+    100352: kitchen_fire_place
+    100354: kitchen_wall_1
+    100356: kitchen_wall_1.5
+    100358: kitchen_wall_2_in
+    100360: kitchen_wall_2_in_foot
+    100362: kitchen_wall_2_out
+    100364: kitchen_wall_3_in
+    100366: kitchen_wall_3_in_foot
+    100368: kitchen_wall_3_left_out
+    100370: kitchen_wall_3_left_out_foot
+    100372: kitchen_wall_3_right_out
+    100374: kitchen_wall_4_in
+    100376: kitchen_wall_4_in_foot
+    100378: kitchen_wall_4_out
+    100380: kitchen_wall_middle_in
+    100382: kitchen_wall_middle_in_foot
+    100384: kitchen_wall_middle_out
+    100386: kitchen_wall_storage
+    100388: kitchen_wall_storage_foot
+    100390: kitchen_window
+    100392: living_closet
+    100394: living_closet001
+    100396: living_closet002
+    100398: living_closet_body
+    100400: living_closet_body001
+    100402: living_closet_body002
+    100404: living_closet_door_down_left
+    100406: living_closet_door_down_left001
+    100408: living_closet_door_down_left002
+    100410: living_closet_door_down_right
+    100412: living_closet_door_down_right001
+    100414: living_closet_door_down_right002
+    100416: living_closet_door_up_left
+    100418: living_closet_door_up_left001
+    100420: living_closet_door_up_left002
+    100422: living_closet_door_up_right
+    100424: living_closet_door_up_right001
+    100426: living_closet_door_up_right002
+    100428: living_clset_board
+    100430: living_clset_board001
+    100432: living_clset_board002
+    100434: living_door
+    100436: living_door_body
+    100438: living_door_body 1
+    100440: living_door_door
+    100442: living_door_frame
+    100444: living_door_glass
+    100446: living_door_handle_
+    100448: living_door_handle_ 1
+    100450: living_door_handle_ 2
+    100452: living_door_handle_ 3
+    100454: living_door_handle_ 4
+    100456: living_door_handle_ 5
+    100458: living_door_handle_001
+    100460: living_door_handle_001 1
+    100462: living_door_handle_002
+    100464: living_door_handle_002 1
+    100466: living_door_handle_003
+    100468: living_door_handle_003 1
+    100470: living_door_handle__001
+    100472: living_door_handle__001 1
+    100474: living_door_handle__001 2
+    100476: living_door_handle__001 3
+    100478: living_door_handle__002
+    100480: living_door_handle__002 1
+    100482: living_door_handle__003
+    100484: living_door_handle__003 1
+    100486: living_small_door
+    100488: living_small_door001
+    100490: living_small_door_body
+    100492: living_small_door_body001
+    100494: living_small_door_door
+    100496: living_small_door_door001
+    100498: living_small_door_frame
+    100500: living_small_door_frame001
+    100502: living_small_door_handle
+    100504: living_small_door_handle001
+    100506: living_small_door_handle_001
+    100508: living_small_door_handle_002
+    100510: living_small_door_handle_003
+    100512: living_small_door_handle_004
+    100514: living_small_door_handle_005
+    100516: living_small_door_handle_006
+    100518: living_small_door_hanle_004
+    100520: living_small_door_hanle_005
+    100522: living_wall_1_foot
+    100524: living_wall_1_in
+    100526: living_wall_2_foot
+    100528: living_wall_2_in
+    100530: living_wall_2_out
+    100532: living_wall_3_foot
+    100534: living_wall_4_foot
+    100536: living_wall_4_in
+    100538: living_wall_4_out
+    100540: living_window_med
+    100542: living_window_med001
+    100544: living_window_med002
+    100546: living_window_med_body
+    100548: living_window_med_body001
+    100550: living_window_med_body002
+    100552: living_window_med_frame
+    100554: living_window_med_frame001
+    100556: living_window_med_frame002
+    100558: living_window_small
+    100560: mouse_hole
+    100562: mouse_hole001
+    100564: roof
+    100566: skywell_wall_2_out
+    100568: skywell_wall_in
+    100570: stair_basement
+    100572: stair_body
+    100574: stair_ground_cases
+    100576: stair_ground_frame_1
+    100578: stair_ground_frame_2
+    100580: stair_ground_frame_3
+    100582: stair_ground_frame_4
+    100584: stair_ground_handle_metal_
+    100586: stair_ground_handle_metal_ 1
+    100588: stair_ground_handle_metal_ 10
+    100590: stair_ground_handle_metal_ 11
+    100592: stair_ground_handle_metal_ 12
+    100594: stair_ground_handle_metal_ 13
+    100596: stair_ground_handle_metal_ 14
+    100598: stair_ground_handle_metal_ 2
+    100600: stair_ground_handle_metal_ 3
+    100602: stair_ground_handle_metal_ 4
+    100604: stair_ground_handle_metal_ 5
+    100606: stair_ground_handle_metal_ 6
+    100608: stair_ground_handle_metal_ 7
+    100610: stair_ground_handle_metal_ 8
+    100612: stair_ground_handle_metal_ 9
+    100614: stair_ground_handle_wood
+    100616: stair_handle
+    100618: storage_1_wall_1_corner
+    100620: storage_1_wall_1_corner_foot
+    100622: storage_1_wall_1_in
+    100624: storage_1_wall_1_in_foot
+    100626: storage_1_wall_2_foot
+    100628: storage_1_wall_2_in
+    100630: storage_1_wall_2_out
+    100632: storage_1_wall_3_foot
+    100634: storage_1_wall_3_in
+    100636: storage_1_wall_4_foot
+    100638: storage_1_wall_4_in
+    100640: storage_2_wall_2_foot
+    100642: storage_2_wall_2_in
+    100644: storage_2_wall_2_out
+    100646: storage_2_wall_4
+    100648: storage_2_wall_4_out
+    100650: storage_2_wall_middle
+    100652: storage_3_window
+    100654: storage_wall_1
+    100656: w3_front_wall
+    100658: win_body
+    100660: win_body001
+    100662: win_down
+    100664: win_down001
+    100666: win_up
+    100668: win_up001
+    100670: window_002
+    100672: window_1
+    100674: window_1_frame
+    100676: window_1_frame001
+    100678: window_down
+    100680: window_down 1
+    100682: window_down 2
+    100684: window_down001
+    100686: window_frame
+    100688: window_frame 1
+    100690: window_glass
+    100692: window_up
+    100694: window_up_
+    100696: window_up_ 1
+    100698: window_up_ 2
+    100700: window_yard
+    100702: window_yard_body
+    100704: window_yard_frame
+    100706: window_yard_glass
+    100708: yard_door_body
+    100710: yard_door_body001
+    100712: yard_door_body002
+    100714: yard_door_door
+    100716: yard_door_door 1
+    100718: yard_door_door 2
+    100720: yard_door_door001
+    100722: yard_door_door002
+    100724: yard_door_door003
+    100726: yard_door_door004
+    100728: yard_door_door005
+    100730: yard_door_door006
+    100732: yard_door_frame
+    100734: yard_door_frame001
+    100736: yard_door_frame002
+    100738: yard_storage_door
+    100740: yard_storage_door 1
+    100742: yard_storage_door001
+    100744: yard_storage_door002
+    100746: yard_storage_door003
+    100748: yard_storage_door004
+    100750: yard_storage_door_body
+    100752: yard_storage_door_body 1
+    100754: yard_storage_door_body001
+    100756: yard_storage_door_body002
+    100758: yard_storage_door_body003
+    100760: yard_storage_door_body004
+    100762: yard_storage_door_frame
+    100764: yard_storage_door_frame 1
+    100766: yard_storage_door_frame001
+    100768: yard_storage_door_frame002
+    100770: yard_storage_door_frame003
+    100772: yard_storage_door_frame004
+    400000: a1_ceiling_1
+    400002: a1_ceiling_2
+    400004: a1_ceiling_3
+    400006: a1_ceiling_front
+    400008: a1_fence
+    400010: a1_front_stair
+    400012: a1_front_stair003
+    400014: a1_front_stair_edge
+    400016: a1_kitchen_roof
+    400018: a2_base
+    400020: a2_floor_coal_1
+    400022: a2_floor_coal_2
+    400024: a2_floor_deco
+    400026: a2_floor_kitchen
+    400028: a2_floor_living
+    400030: a2_floor_sky_well
+    400032: a2_floor_storage_1
+    400034: a2_floor_storage_2
+    400036: back
+    400038: //RootNode
+    400040: basement_out_window
+    400042: basement_out_window001
+    400044: basement_stair_to_road
+    400046: basement_yard_door
+    400048: basement_yard_door001
+    400050: Box003
+    400052: Box006
+    400054: Box007
+    400056: Box008
+    400058: Box009
+    400060: Box010
+    400062: Box011
+    400064: Box012
+    400066: Box013
+    400068: Box014
+    400070: Box015
+    400072: Box016
+    400074: Box017
+    400076: Box018
+    400078: Box019
+    400080: coal_wall_1_in
+    400082: coal_wall_1_out
+    400084: coal_wall_3
+    400086: coal_wall_4
+    400088: coal_wall_middle
+    400090: deco_closet
+    400092: deco_closet_door_1
+    400094: deco_closet_door_2
+    400096: deco_closet_door_frame
+    400098: deco_door
+    400100: deco_door_door
+    400102: deco_door_frame
+    400104: deco_door_frame_out
+    400106: deco_wall_1_in
+    400108: deco_wall_1_in_foot
+    400110: deco_wall_1_out
+    400112: deco_wall_2_in
+    400114: deco_wall_2_in_foot
+    400116: deco_wall_2_out
+    400118: deco_wall_3_in
+    400120: deco_wall_3_in_foot
+    400122: deco_wall_4_in
+    400124: deco_wall_4_in_foot
+    400126: deco_wall_4_out
+    400128: deco_wall_4_out_foot
+    400130: deco_window
+    400132: door
+    400134: door 1
+    400136: fire_place_dining
+    400138: fire_place_dining001
+    400140: fire_place_in
+    400142: fire_place_in001
+    400144: fire_place_out
+    400146: fire_place_out001
+    400148: foot
+    400150: frame
+    400152: frame 1
+    400154: frame 2
+    400156: frame 3
+    400158: frame001
+    400160: frame_002
+    400162: frame_1
+    400164: frame_1 1
+    400166: frame_1 2
+    400168: frame_1 3
+    400170: frame_1 4
+    400172: frame_2
+    400174: frame_2 1
+    400176: frame_down
+    400178: frame_down001
+    400180: frame_up
+    400182: frame_up001
+    400184: front
+    400186: front_door_edge
+    400188: front_door_wall
+    400190: front_wall_2
+    400192: front_wall_4
+    400194: front_wall_middle_in
+    400196: front_wall_middle_out
+    400198: glass
+    400200: glass 1
+    400202: glass001
+    400204: glass001 1
+    400206: glass_002
+    400208: glass_1
+    400210: glass_1 1
+    400212: glass_1 2
+    400214: glass_2
+    400216: glass_down
+    400218: glass_down001
+    400220: glass_up
+    400222: glass_up 1
+    400224: glass_up001
+    400226: hallway_2_wall_4_in
+    400228: hallway_2_wall_4_in_foot
+    400230: hallway_2_wall_4_out
+    400232: hallway_door
+    400234: hallway_door_wall
+    400236: hallway_wall_4_out
+    400238: handle
+    400240: handle 1
+    400242: handle 2
+    400244: handle 3
+    400246: handle001
+    400248: handle001 1
+    400250: handle002
+    400252: handle003
+    400254: handle004
+    400256: handle005
+    400258: handle006
+    400260: handle_005
+    400262: handle_005 1
+    400264: handle_006
+    400266: handle_006 1
+    400268: handle_007
+    400270: handle_007 1
+    400272: handle_008
+    400274: handle_008 1
+    400276: handle_009
+    400278: handle_010
+    400280: handle_011
+    400282: handle_012
+    400284: handle_013
+    400286: handle_014
+    400288: handle_015
+    400290: handle_016
+    400292: handle_017
+    400294: handle_018
+    400296: handle_019
+    400298: handle_020
+    400300: handle_021
+    400302: handle_022
+    400304: handle_023
+    400306: handle_024
+    400308: handle_025
+    400310: handle_026
+    400312: handle_027
+    400314: handle_028
+    400316: handle_1
+    400318: handle_1 1
+    400320: handle_1 2
+    400322: handle_1 3
+    400324: handle_2
+    400326: handle_2 1
+    400328: handle_2 2
+    400330: handle_2 3
+    400332: handle_3
+    400334: handle_3 1
+    400336: handle_3 2
+    400338: handle_3 3
+    400340: handle_4
+    400342: handle_4 1
+    400344: handle_4 2
+    400346: handle_4 3
+    400348: kitchen_big_door
+    400350: kitchen_door_small
+    400352: kitchen_fire_place
+    400354: kitchen_wall_1
+    400356: kitchen_wall_1.5
+    400358: kitchen_wall_2_in
+    400360: kitchen_wall_2_in_foot
+    400362: kitchen_wall_2_out
+    400364: kitchen_wall_3_in
+    400366: kitchen_wall_3_in_foot
+    400368: kitchen_wall_3_left_out
+    400370: kitchen_wall_3_left_out_foot
+    400372: kitchen_wall_3_right_out
+    400374: kitchen_wall_4_in
+    400376: kitchen_wall_4_in_foot
+    400378: kitchen_wall_4_out
+    400380: kitchen_wall_middle_in
+    400382: kitchen_wall_middle_in_foot
+    400384: kitchen_wall_middle_out
+    400386: kitchen_wall_storage
+    400388: kitchen_wall_storage_foot
+    400390: kitchen_window
+    400392: living_closet
+    400394: living_closet001
+    400396: living_closet002
+    400398: living_closet_body
+    400400: living_closet_body001
+    400402: living_closet_body002
+    400404: living_closet_door_down_left
+    400406: living_closet_door_down_left001
+    400408: living_closet_door_down_left002
+    400410: living_closet_door_down_right
+    400412: living_closet_door_down_right001
+    400414: living_closet_door_down_right002
+    400416: living_closet_door_up_left
+    400418: living_closet_door_up_left001
+    400420: living_closet_door_up_left002
+    400422: living_closet_door_up_right
+    400424: living_closet_door_up_right001
+    400426: living_closet_door_up_right002
+    400428: living_clset_board
+    400430: living_clset_board001
+    400432: living_clset_board002
+    400434: living_door
+    400436: living_door_body
+    400438: living_door_body 1
+    400440: living_door_door
+    400442: living_door_frame
+    400444: living_door_glass
+    400446: living_door_handle_
+    400448: living_door_handle_ 1
+    400450: living_door_handle_ 2
+    400452: living_door_handle_ 3
+    400454: living_door_handle_ 4
+    400456: living_door_handle_ 5
+    400458: living_door_handle_001
+    400460: living_door_handle_001 1
+    400462: living_door_handle_002
+    400464: living_door_handle_002 1
+    400466: living_door_handle_003
+    400468: living_door_handle_003 1
+    400470: living_door_handle__001
+    400472: living_door_handle__001 1
+    400474: living_door_handle__001 2
+    400476: living_door_handle__001 3
+    400478: living_door_handle__002
+    400480: living_door_handle__002 1
+    400482: living_door_handle__003
+    400484: living_door_handle__003 1
+    400486: living_small_door
+    400488: living_small_door001
+    400490: living_small_door_body
+    400492: living_small_door_body001
+    400494: living_small_door_door
+    400496: living_small_door_door001
+    400498: living_small_door_frame
+    400500: living_small_door_frame001
+    400502: living_small_door_handle
+    400504: living_small_door_handle001
+    400506: living_small_door_handle_001
+    400508: living_small_door_handle_002
+    400510: living_small_door_handle_003
+    400512: living_small_door_handle_004
+    400514: living_small_door_handle_005
+    400516: living_small_door_handle_006
+    400518: living_small_door_hanle_004
+    400520: living_small_door_hanle_005
+    400522: living_wall_1_foot
+    400524: living_wall_1_in
+    400526: living_wall_2_foot
+    400528: living_wall_2_in
+    400530: living_wall_2_out
+    400532: living_wall_3_foot
+    400534: living_wall_4_foot
+    400536: living_wall_4_in
+    400538: living_wall_4_out
+    400540: living_window_med
+    400542: living_window_med001
+    400544: living_window_med002
+    400546: living_window_med_body
+    400548: living_window_med_body001
+    400550: living_window_med_body002
+    400552: living_window_med_frame
+    400554: living_window_med_frame001
+    400556: living_window_med_frame002
+    400558: living_window_small
+    400560: mouse_hole
+    400562: mouse_hole001
+    400564: roof
+    400566: skywell_wall_2_out
+    400568: skywell_wall_in
+    400570: stair_basement
+    400572: stair_body
+    400574: stair_ground_cases
+    400576: stair_ground_frame_1
+    400578: stair_ground_frame_2
+    400580: stair_ground_frame_3
+    400582: stair_ground_frame_4
+    400584: stair_ground_handle_metal_
+    400586: stair_ground_handle_metal_ 1
+    400588: stair_ground_handle_metal_ 10
+    400590: stair_ground_handle_metal_ 11
+    400592: stair_ground_handle_metal_ 12
+    400594: stair_ground_handle_metal_ 13
+    400596: stair_ground_handle_metal_ 14
+    400598: stair_ground_handle_metal_ 2
+    400600: stair_ground_handle_metal_ 3
+    400602: stair_ground_handle_metal_ 4
+    400604: stair_ground_handle_metal_ 5
+    400606: stair_ground_handle_metal_ 6
+    400608: stair_ground_handle_metal_ 7
+    400610: stair_ground_handle_metal_ 8
+    400612: stair_ground_handle_metal_ 9
+    400614: stair_ground_handle_wood
+    400616: stair_handle
+    400618: storage_1_wall_1_corner
+    400620: storage_1_wall_1_corner_foot
+    400622: storage_1_wall_1_in
+    400624: storage_1_wall_1_in_foot
+    400626: storage_1_wall_2_foot
+    400628: storage_1_wall_2_in
+    400630: storage_1_wall_2_out
+    400632: storage_1_wall_3_foot
+    400634: storage_1_wall_3_in
+    400636: storage_1_wall_4_foot
+    400638: storage_1_wall_4_in
+    400640: storage_2_wall_2_foot
+    400642: storage_2_wall_2_in
+    400644: storage_2_wall_2_out
+    400646: storage_2_wall_4
+    400648: storage_2_wall_4_out
+    400650: storage_2_wall_middle
+    400652: storage_3_window
+    400654: storage_wall_1
+    400656: w3_front_wall
+    400658: win_body
+    400660: win_body001
+    400662: win_down
+    400664: win_down001
+    400666: win_up
+    400668: win_up001
+    400670: window_002
+    400672: window_1
+    400674: window_1_frame
+    400676: window_1_frame001
+    400678: window_down
+    400680: window_down 1
+    400682: window_down 2
+    400684: window_down001
+    400686: window_frame
+    400688: window_frame 1
+    400690: window_glass
+    400692: window_up
+    400694: window_up_
+    400696: window_up_ 1
+    400698: window_up_ 2
+    400700: window_yard
+    400702: window_yard_body
+    400704: window_yard_frame
+    400706: window_yard_glass
+    400708: yard_door_body
+    400710: yard_door_body001
+    400712: yard_door_body002
+    400714: yard_door_door
+    400716: yard_door_door 1
+    400718: yard_door_door 2
+    400720: yard_door_door001
+    400722: yard_door_door002
+    400724: yard_door_door003
+    400726: yard_door_door004
+    400728: yard_door_door005
+    400730: yard_door_door006
+    400732: yard_door_frame
+    400734: yard_door_frame001
+    400736: yard_door_frame002
+    400738: yard_storage_door
+    400740: yard_storage_door 1
+    400742: yard_storage_door001
+    400744: yard_storage_door002
+    400746: yard_storage_door003
+    400748: yard_storage_door004
+    400750: yard_storage_door_body
+    400752: yard_storage_door_body 1
+    400754: yard_storage_door_body001
+    400756: yard_storage_door_body002
+    400758: yard_storage_door_body003
+    400760: yard_storage_door_body004
+    400762: yard_storage_door_frame
+    400764: yard_storage_door_frame 1
+    400766: yard_storage_door_frame001
+    400768: yard_storage_door_frame002
+    400770: yard_storage_door_frame003
+    400772: yard_storage_door_frame004
+    2100000: No Name
+    2300000: a1_ceiling_1
+    2300002: a1_ceiling_2
+    2300004: a1_ceiling_3
+    2300006: a1_ceiling_front
+    2300008: a1_fence
+    2300010: a1_front_stair
+    2300012: a1_front_stair003
+    2300014: a1_front_stair_edge
+    2300016: a2_base
+    2300018: a2_floor_coal_1
+    2300020: a2_floor_coal_2
+    2300022: a2_floor_deco
+    2300024: a2_floor_kitchen
+    2300026: a2_floor_living
+    2300028: a2_floor_sky_well
+    2300030: a2_floor_storage_1
+    2300032: a2_floor_storage_2
+    2300034: back
+    2300036: Box003
+    2300038: Box006
+    2300040: Box007
+    2300042: Box008
+    2300044: Box009
+    2300046: Box010
+    2300048: Box011
+    2300050: Box012
+    2300052: Box013
+    2300054: Box014
+    2300056: Box015
+    2300058: Box016
+    2300060: Box017
+    2300062: Box018
+    2300064: Box019
+    2300066: coal_wall_1_in
+    2300068: coal_wall_1_out
+    2300070: coal_wall_3
+    2300072: coal_wall_4
+    2300074: coal_wall_middle
+    2300076: deco_closet_door_1
+    2300078: deco_closet_door_2
+    2300080: deco_closet_door_frame
+    2300082: deco_door_frame_out
+    2300084: deco_wall_1_in
+    2300086: deco_wall_1_in_foot
+    2300088: deco_wall_1_out
+    2300090: deco_wall_2_in
+    2300092: deco_wall_2_in_foot
+    2300094: deco_wall_2_out
+    2300096: deco_wall_3_in
+    2300098: deco_wall_3_in_foot
+    2300100: deco_wall_4_in
+    2300102: deco_wall_4_in_foot
+    2300104: deco_wall_4_out
+    2300106: deco_wall_4_out_foot
+    2300108: door 1
+    2300110: fire_place_in
+    2300112: fire_place_in001
+    2300114: fire_place_out
+    2300116: fire_place_out001
+    2300118: foot
+    2300120: frame 1
+    2300122: frame 2
+    2300124: frame 3
+    2300126: frame001
+    2300128: frame_002
+    2300130: frame_1
+    2300132: frame_1 1
+    2300134: frame_1 2
+    2300136: frame_1 3
+    2300138: frame_1 4
+    2300140: frame_2
+    2300142: frame_2 1
+    2300144: frame_down
+    2300146: frame_down001
+    2300148: frame_up
+    2300150: frame_up001
+    2300152: front
+    2300154: front_door_edge
+    2300156: front_door_wall
+    2300158: front_wall_2
+    2300160: front_wall_4
+    2300162: front_wall_middle_in
+    2300164: front_wall_middle_out
+    2300166: glass
+    2300168: glass 1
+    2300170: glass001
+    2300172: glass001 1
+    2300174: glass_002
+    2300176: glass_1
+    2300178: glass_1 1
+    2300180: glass_1 2
+    2300182: glass_2
+    2300184: glass_down
+    2300186: glass_down001
+    2300188: glass_up
+    2300190: glass_up 1
+    2300192: glass_up001
+    2300194: hallway_2_wall_4_in
+    2300196: hallway_2_wall_4_in_foot
+    2300198: hallway_2_wall_4_out
+    2300200: hallway_door_wall
+    2300202: hallway_wall_4_out
+    2300204: handle_005
+    2300206: handle_005 1
+    2300208: handle_006
+    2300210: handle_006 1
+    2300212: handle_007
+    2300214: handle_007 1
+    2300216: handle_008
+    2300218: handle_008 1
+    2300220: handle_009
+    2300222: handle_010
+    2300224: handle_011
+    2300226: handle_012
+    2300228: handle_013
+    2300230: handle_014
+    2300232: handle_015
+    2300234: handle_016
+    2300236: handle_017
+    2300238: handle_018
+    2300240: handle_019
+    2300242: handle_020
+    2300244: handle_021
+    2300246: handle_022
+    2300248: handle_023
+    2300250: handle_024
+    2300252: handle_025
+    2300254: handle_026
+    2300256: handle_027
+    2300258: handle_028
+    2300260: handle_1
+    2300262: handle_1 1
+    2300264: handle_1 2
+    2300266: handle_1 3
+    2300268: handle_2
+    2300270: handle_2 1
+    2300272: handle_2 2
+    2300274: handle_2 3
+    2300276: handle_3
+    2300278: handle_3 1
+    2300280: handle_3 2
+    2300282: handle_3 3
+    2300284: handle_4
+    2300286: handle_4 1
+    2300288: handle_4 2
+    2300290: handle_4 3
+    2300292: kitchen_wall_1
+    2300294: kitchen_wall_1.5
+    2300296: kitchen_wall_2_in
+    2300298: kitchen_wall_2_in_foot
+    2300300: kitchen_wall_2_out
+    2300302: kitchen_wall_3_in
+    2300304: kitchen_wall_3_in_foot
+    2300306: kitchen_wall_3_left_out
+    2300308: kitchen_wall_3_left_out_foot
+    2300310: kitchen_wall_3_right_out
+    2300312: kitchen_wall_4_in
+    2300314: kitchen_wall_4_in_foot
+    2300316: kitchen_wall_4_out
+    2300318: kitchen_wall_middle_in
+    2300320: kitchen_wall_middle_in_foot
+    2300322: kitchen_wall_middle_out
+    2300324: kitchen_wall_storage
+    2300326: kitchen_wall_storage_foot
+    2300328: living_closet_body
+    2300330: living_closet_body001
+    2300332: living_closet_body002
+    2300334: living_closet_door_down_left
+    2300336: living_closet_door_down_left001
+    2300338: living_closet_door_down_left002
+    2300340: living_closet_door_down_right
+    2300342: living_closet_door_down_right001
+    2300344: living_closet_door_down_right002
+    2300346: living_closet_door_up_left
+    2300348: living_closet_door_up_left001
+    2300350: living_closet_door_up_left002
+    2300352: living_closet_door_up_right
+    2300354: living_closet_door_up_right001
+    2300356: living_closet_door_up_right002
+    2300358: living_clset_board
+    2300360: living_clset_board001
+    2300362: living_clset_board002
+    2300364: living_door_body
+    2300366: living_door_body 1
+    2300368: living_door_frame
+    2300370: living_door_glass
+    2300372: living_door_handle_ 2
+    2300374: living_door_handle_ 3
+    2300376: living_door_handle_ 4
+    2300378: living_door_handle_ 5
+    2300380: living_door_handle_001
+    2300382: living_door_handle_001 1
+    2300384: living_door_handle_002
+    2300386: living_door_handle_002 1
+    2300388: living_door_handle__001
+    2300390: living_door_handle__001 1
+    2300392: living_door_handle__001 2
+    2300394: living_door_handle__001 3
+    2300396: living_door_handle__002
+    2300398: living_door_handle__002 1
+    2300400: living_door_handle__003
+    2300402: living_door_handle__003 1
+    2300404: living_small_door_body
+    2300406: living_small_door_body001
+    2300408: living_small_door_frame
+    2300410: living_small_door_frame001
+    2300412: living_small_door_handle_001
+    2300414: living_small_door_handle_002
+    2300416: living_small_door_handle_003
+    2300418: living_small_door_handle_004
+    2300420: living_small_door_handle_005
+    2300422: living_small_door_handle_006
+    2300424: living_small_door_hanle_004
+    2300426: living_small_door_hanle_005
+    2300428: living_wall_1_foot
+    2300430: living_wall_1_in
+    2300432: living_wall_2_foot
+    2300434: living_wall_2_in
+    2300436: living_wall_2_out
+    2300438: living_wall_3_foot
+    2300440: living_wall_4_foot
+    2300442: living_wall_4_in
+    2300444: living_wall_4_out
+    2300446: living_window_med_body
+    2300448: living_window_med_body001
+    2300450: living_window_med_body002
+    2300452: living_window_med_frame
+    2300454: living_window_med_frame001
+    2300456: living_window_med_frame002
+    2300458: living_window_small
+    2300460: mouse_hole
+    2300462: mouse_hole001
+    2300464: roof
+    2300466: skywell_wall_2_out
+    2300468: skywell_wall_in
+    2300470: stair_body
+    2300472: stair_ground_frame_1
+    2300474: stair_ground_frame_2
+    2300476: stair_ground_frame_3
+    2300478: stair_ground_frame_4
+    2300480: stair_ground_handle_metal_ 1
+    2300482: stair_ground_handle_metal_ 10
+    2300484: stair_ground_handle_metal_ 11
+    2300486: stair_ground_handle_metal_ 12
+    2300488: stair_ground_handle_metal_ 13
+    2300490: stair_ground_handle_metal_ 14
+    2300492: stair_ground_handle_metal_ 2
+    2300494: stair_ground_handle_metal_ 3
+    2300496: stair_ground_handle_metal_ 4
+    2300498: stair_ground_handle_metal_ 5
+    2300500: stair_ground_handle_metal_ 6
+    2300502: stair_ground_handle_metal_ 7
+    2300504: stair_ground_handle_metal_ 8
+    2300506: stair_ground_handle_metal_ 9
+    2300508: stair_ground_handle_wood
+    2300510: stair_handle
+    2300512: storage_1_wall_1_corner
+    2300514: storage_1_wall_1_corner_foot
+    2300516: storage_1_wall_1_in
+    2300518: storage_1_wall_1_in_foot
+    2300520: storage_1_wall_2_foot
+    2300522: storage_1_wall_2_in
+    2300524: storage_1_wall_2_out
+    2300526: storage_1_wall_3_foot
+    2300528: storage_1_wall_3_in
+    2300530: storage_1_wall_4_foot
+    2300532: storage_1_wall_4_in
+    2300534: storage_2_wall_2_foot
+    2300536: storage_2_wall_2_in
+    2300538: storage_2_wall_2_out
+    2300540: storage_2_wall_4
+    2300542: storage_2_wall_4_out
+    2300544: storage_2_wall_middle
+    2300546: storage_wall_1
+    2300548: w3_front_wall
+    2300550: win_body
+    2300552: win_body001
+    2300554: window_1_frame
+    2300556: window_1_frame001
+    2300558: window_frame
+    2300560: window_frame 1
+    2300562: window_glass
+    2300564: window_up_ 1
+    2300566: window_up_ 2
+    2300568: window_yard_body
+    2300570: window_yard_frame
+    2300572: window_yard_glass
+    2300574: yard_door_body
+    2300576: yard_door_body001
+    2300578: yard_door_body002
+    2300580: yard_door_door 1
+    2300582: yard_door_door 2
+    2300584: yard_door_door001
+    2300586: yard_door_door002
+    2300588: yard_door_door003
+    2300590: yard_door_door004
+    2300592: yard_door_frame
+    2300594: yard_door_frame001
+    2300596: yard_door_frame002
+    2300598: yard_storage_door_frame
+    2300600: yard_storage_door_frame 1
+    2300602: yard_storage_door_frame001
+    2300604: yard_storage_door_frame002
+    2300606: yard_storage_door_frame003
+    2300608: yard_storage_door_frame004
+    3300000: a1_ceiling_1
+    3300002: a1_ceiling_2
+    3300004: a1_ceiling_3
+    3300006: a1_ceiling_front
+    3300008: a1_fence
+    3300010: a1_front_stair
+    3300012: a1_front_stair003
+    3300014: a1_front_stair_edge
+    3300016: a2_base
+    3300018: a2_floor_coal_1
+    3300020: a2_floor_coal_2
+    3300022: a2_floor_deco
+    3300024: a2_floor_kitchen
+    3300026: a2_floor_living
+    3300028: a2_floor_sky_well
+    3300030: a2_floor_storage_1
+    3300032: a2_floor_storage_2
+    3300034: back
+    3300036: Box003
+    3300038: Box006
+    3300040: Box007
+    3300042: Box008
+    3300044: Box009
+    3300046: Box010
+    3300048: Box011
+    3300050: Box012
+    3300052: Box013
+    3300054: Box014
+    3300056: Box015
+    3300058: Box016
+    3300060: Box017
+    3300062: Box018
+    3300064: Box019
+    3300066: coal_wall_1_in
+    3300068: coal_wall_1_out
+    3300070: coal_wall_3
+    3300072: coal_wall_4
+    3300074: coal_wall_middle
+    3300076: deco_closet_door_1
+    3300078: deco_closet_door_2
+    3300080: deco_closet_door_frame
+    3300082: deco_door_frame_out
+    3300084: deco_wall_1_in
+    3300086: deco_wall_1_in_foot
+    3300088: deco_wall_1_out
+    3300090: deco_wall_2_in
+    3300092: deco_wall_2_in_foot
+    3300094: deco_wall_2_out
+    3300096: deco_wall_3_in
+    3300098: deco_wall_3_in_foot
+    3300100: deco_wall_4_in
+    3300102: deco_wall_4_in_foot
+    3300104: deco_wall_4_out
+    3300106: deco_wall_4_out_foot
+    3300108: door 1
+    3300110: fire_place_in
+    3300112: fire_place_in001
+    3300114: fire_place_out
+    3300116: fire_place_out001
+    3300118: foot
+    3300120: frame 1
+    3300122: frame 2
+    3300124: frame 3
+    3300126: frame001
+    3300128: frame_002
+    3300130: frame_1
+    3300132: frame_1 1
+    3300134: frame_1 2
+    3300136: frame_1 3
+    3300138: frame_1 4
+    3300140: frame_2
+    3300142: frame_2 1
+    3300144: frame_down
+    3300146: frame_down001
+    3300148: frame_up
+    3300150: frame_up001
+    3300152: front
+    3300154: front_door_edge
+    3300156: front_door_wall
+    3300158: front_wall_2
+    3300160: front_wall_4
+    3300162: front_wall_middle_in
+    3300164: front_wall_middle_out
+    3300166: glass
+    3300168: glass 1
+    3300170: glass001
+    3300172: glass001 1
+    3300174: glass_002
+    3300176: glass_1
+    3300178: glass_1 1
+    3300180: glass_1 2
+    3300182: glass_2
+    3300184: glass_down
+    3300186: glass_down001
+    3300188: glass_up
+    3300190: glass_up 1
+    3300192: glass_up001
+    3300194: hallway_2_wall_4_in
+    3300196: hallway_2_wall_4_in_foot
+    3300198: hallway_2_wall_4_out
+    3300200: hallway_door_wall
+    3300202: hallway_wall_4_out
+    3300204: handle_005
+    3300206: handle_005 1
+    3300208: handle_006
+    3300210: handle_006 1
+    3300212: handle_007
+    3300214: handle_007 1
+    3300216: handle_008
+    3300218: handle_008 1
+    3300220: handle_009
+    3300222: handle_010
+    3300224: handle_011
+    3300226: handle_012
+    3300228: handle_013
+    3300230: handle_014
+    3300232: handle_015
+    3300234: handle_016
+    3300236: handle_017
+    3300238: handle_018
+    3300240: handle_019
+    3300242: handle_020
+    3300244: handle_021
+    3300246: handle_022
+    3300248: handle_023
+    3300250: handle_024
+    3300252: handle_025
+    3300254: handle_026
+    3300256: handle_027
+    3300258: handle_028
+    3300260: handle_1
+    3300262: handle_1 1
+    3300264: handle_1 2
+    3300266: handle_1 3
+    3300268: handle_2
+    3300270: handle_2 1
+    3300272: handle_2 2
+    3300274: handle_2 3
+    3300276: handle_3
+    3300278: handle_3 1
+    3300280: handle_3 2
+    3300282: handle_3 3
+    3300284: handle_4
+    3300286: handle_4 1
+    3300288: handle_4 2
+    3300290: handle_4 3
+    3300292: kitchen_wall_1
+    3300294: kitchen_wall_1.5
+    3300296: kitchen_wall_2_in
+    3300298: kitchen_wall_2_in_foot
+    3300300: kitchen_wall_2_out
+    3300302: kitchen_wall_3_in
+    3300304: kitchen_wall_3_in_foot
+    3300306: kitchen_wall_3_left_out
+    3300308: kitchen_wall_3_left_out_foot
+    3300310: kitchen_wall_3_right_out
+    3300312: kitchen_wall_4_in
+    3300314: kitchen_wall_4_in_foot
+    3300316: kitchen_wall_4_out
+    3300318: kitchen_wall_middle_in
+    3300320: kitchen_wall_middle_in_foot
+    3300322: kitchen_wall_middle_out
+    3300324: kitchen_wall_storage
+    3300326: kitchen_wall_storage_foot
+    3300328: living_closet_body
+    3300330: living_closet_body001
+    3300332: living_closet_body002
+    3300334: living_closet_door_down_left
+    3300336: living_closet_door_down_left001
+    3300338: living_closet_door_down_left002
+    3300340: living_closet_door_down_right
+    3300342: living_closet_door_down_right001
+    3300344: living_closet_door_down_right002
+    3300346: living_closet_door_up_left
+    3300348: living_closet_door_up_left001
+    3300350: living_closet_door_up_left002
+    3300352: living_closet_door_up_right
+    3300354: living_closet_door_up_right001
+    3300356: living_closet_door_up_right002
+    3300358: living_clset_board
+    3300360: living_clset_board001
+    3300362: living_clset_board002
+    3300364: living_door_body
+    3300366: living_door_body 1
+    3300368: living_door_frame
+    3300370: living_door_glass
+    3300372: living_door_handle_ 2
+    3300374: living_door_handle_ 3
+    3300376: living_door_handle_ 4
+    3300378: living_door_handle_ 5
+    3300380: living_door_handle_001
+    3300382: living_door_handle_001 1
+    3300384: living_door_handle_002
+    3300386: living_door_handle_002 1
+    3300388: living_door_handle__001
+    3300390: living_door_handle__001 1
+    3300392: living_door_handle__001 2
+    3300394: living_door_handle__001 3
+    3300396: living_door_handle__002
+    3300398: living_door_handle__002 1
+    3300400: living_door_handle__003
+    3300402: living_door_handle__003 1
+    3300404: living_small_door_body
+    3300406: living_small_door_body001
+    3300408: living_small_door_frame
+    3300410: living_small_door_frame001
+    3300412: living_small_door_handle_001
+    3300414: living_small_door_handle_002
+    3300416: living_small_door_handle_003
+    3300418: living_small_door_handle_004
+    3300420: living_small_door_handle_005
+    3300422: living_small_door_handle_006
+    3300424: living_small_door_hanle_004
+    3300426: living_small_door_hanle_005
+    3300428: living_wall_1_foot
+    3300430: living_wall_1_in
+    3300432: living_wall_2_foot
+    3300434: living_wall_2_in
+    3300436: living_wall_2_out
+    3300438: living_wall_3_foot
+    3300440: living_wall_4_foot
+    3300442: living_wall_4_in
+    3300444: living_wall_4_out
+    3300446: living_window_med_body
+    3300448: living_window_med_body001
+    3300450: living_window_med_body002
+    3300452: living_window_med_frame
+    3300454: living_window_med_frame001
+    3300456: living_window_med_frame002
+    3300458: living_window_small
+    3300460: mouse_hole
+    3300462: mouse_hole001
+    3300464: roof
+    3300466: skywell_wall_2_out
+    3300468: skywell_wall_in
+    3300470: stair_body
+    3300472: stair_ground_frame_1
+    3300474: stair_ground_frame_2
+    3300476: stair_ground_frame_3
+    3300478: stair_ground_frame_4
+    3300480: stair_ground_handle_metal_ 1
+    3300482: stair_ground_handle_metal_ 10
+    3300484: stair_ground_handle_metal_ 11
+    3300486: stair_ground_handle_metal_ 12
+    3300488: stair_ground_handle_metal_ 13
+    3300490: stair_ground_handle_metal_ 14
+    3300492: stair_ground_handle_metal_ 2
+    3300494: stair_ground_handle_metal_ 3
+    3300496: stair_ground_handle_metal_ 4
+    3300498: stair_ground_handle_metal_ 5
+    3300500: stair_ground_handle_metal_ 6
+    3300502: stair_ground_handle_metal_ 7
+    3300504: stair_ground_handle_metal_ 8
+    3300506: stair_ground_handle_metal_ 9
+    3300508: stair_ground_handle_wood
+    3300510: stair_handle
+    3300512: storage_1_wall_1_corner
+    3300514: storage_1_wall_1_corner_foot
+    3300516: storage_1_wall_1_in
+    3300518: storage_1_wall_1_in_foot
+    3300520: storage_1_wall_2_foot
+    3300522: storage_1_wall_2_in
+    3300524: storage_1_wall_2_out
+    3300526: storage_1_wall_3_foot
+    3300528: storage_1_wall_3_in
+    3300530: storage_1_wall_4_foot
+    3300532: storage_1_wall_4_in
+    3300534: storage_2_wall_2_foot
+    3300536: storage_2_wall_2_in
+    3300538: storage_2_wall_2_out
+    3300540: storage_2_wall_4
+    3300542: storage_2_wall_4_out
+    3300544: storage_2_wall_middle
+    3300546: storage_wall_1
+    3300548: w3_front_wall
+    3300550: win_body
+    3300552: win_body001
+    3300554: window_1_frame
+    3300556: window_1_frame001
+    3300558: window_frame
+    3300560: window_frame 1
+    3300562: window_glass
+    3300564: window_up_ 1
+    3300566: window_up_ 2
+    3300568: window_yard_body
+    3300570: window_yard_frame
+    3300572: window_yard_glass
+    3300574: yard_door_body
+    3300576: yard_door_body001
+    3300578: yard_door_body002
+    3300580: yard_door_door 1
+    3300582: yard_door_door 2
+    3300584: yard_door_door001
+    3300586: yard_door_door002
+    3300588: yard_door_door003
+    3300590: yard_door_door004
+    3300592: yard_door_frame
+    3300594: yard_door_frame001
+    3300596: yard_door_frame002
+    3300598: yard_storage_door_frame
+    3300600: yard_storage_door_frame 1
+    3300602: yard_storage_door_frame001
+    3300604: yard_storage_door_frame002
+    3300606: yard_storage_door_frame003
+    3300608: yard_storage_door_frame004
+    4300000: a2_base
+    4300002: living_wall_4_out
+    4300004: a2_floor_living
+    4300006: storage_1_wall_2_out
+    4300008: w3_front_wall
+    4300010: storage_1_wall_3_in
+    4300012: deco_wall_3_in
+    4300014: storage_1_wall_1_corner
+    4300016: deco_wall_4_out
+    4300018: deco_wall_2_in
+    4300020: deco_wall_1_in
+    4300022: storage_2_wall_4
+    4300024: storage_wall_1
+    4300026: storage_2_wall_2_in
+    4300028: kitchen_wall_3_in
+    4300030: kitchen_wall_storage
+    4300032: skywell_wall_2_out
+    4300034: storage_2_wall_middle
+    4300036: kitchen_wall_middle_out
+    4300038: kitchen_wall_1.5
+    4300040: kitchen_wall_1
+    4300042: front_door_wall
+    4300044: front_wall_middle_out
+    4300046: coal_wall_1_out
+    4300048: a2_floor_coal_1
+    4300050: coal_wall_middle
+    4300052: a2_floor_coal_2
+    4300054: coal_wall_3
+    4300056: front_wall_2
+    4300058: storage_1_wall_4_in
+    4300060: living_wall_4_foot
+    4300062: living_wall_1_foot
+    4300064: storage_1_wall_3_foot
+    4300066: living_wall_1_in
+    4300068: living_wall_2_out
+    4300070: living_wall_2_foot
+    4300072: living_wall_2_in
+    4300074: storage_1_wall_2_foot
+    4300076: storage_1_wall_2_in
+    4300078: storage_1_wall_1_corner_foot
+    4300080: storage_1_wall_1_in_foot
+    4300082: storage_1_wall_1_in
+    4300084: fire_place_out
+    4300086: fire_place_in
+    4300088: living_closet_body
+    4300090: living_closet_door_down_left
+    4300092: living_closet_door_down_right
+    4300094: living_closet_door_up_left
+    4300096: living_closet_door_up_right
+    4300098: living_clset_board
+    4300100: living_closet_body001
+    4300102: living_closet_door_down_left001
+    4300104: living_closet_door_down_right001
+    4300106: living_closet_door_up_left001
+    4300108: living_closet_door_up_right001
+    4300110: living_clset_board001
+    4300112: living_small_door_frame
+    4300114: living_small_door_body
+    4300116: living_small_door_handle_001
+    4300118: living_small_door_handle_002
+    4300120: living_small_door_handle_003
+    4300122: living_small_door_hanle_004
+    4300124: living_window_small
+    4300126: living_window_med_body
+    4300128: living_window_med_frame
+    4300130: living_door_glass
+    4300132: living_door_frame
+    4300134: living_door_handle_001
+    4300136: living_door_handle_002
+    4300138: living_door_handle__002
+    4300140: living_door_handle__003
+    4300142: living_door_handle_
+    4300144: living_door_handle_
+    4300146: living_door_handle__001
+    4300148: living_door_handle__001
+    4300150: living_door_body
+    4300152: living_wall_4_in
+    4300154: storage_1_wall_4_foot
+    4300156: glass_up
+    4300158: frame_up
+    4300160: glass_down
+    4300162: frame_down
+    4300164: win_body
+    4300166: win_body001
+    4300168: glass_up001
+    4300170: frame_up001
+    4300172: glass_down001
+    4300174: frame_down001
+    4300176: living_wall_3_foot
+    4300178: front_wall_middle_in
+    4300180: yard_door_frame
+    4300182: yard_door_body
+    4300184: handle_4
+    4300186: handle_3
+    4300188: handle_2
+    4300190: handle_1
+    4300192: window_yard_glass
+    4300194: window_yard_frame
+    4300196: window_yard_body
+    4300198: mouse_hole
+    4300200: mouse_hole001
+    4300202: yard_storage_door_frame
+    4300204: handle_4
+    4300206: handle_3
+    4300208: handle_2
+    4300210: handle_1
+    4300212: yard_door_door
+    4300214: coal_wall_1_in
+    4300216: yard_door_door001
+    4300218: handle_005
+    4300220: handle_006
+    4300222: handle_007
+    4300224: handle_008
+    4300226: yard_storage_door_frame001
+    4300228: yard_storage_door_frame
+    4300230: handle_4
+    4300232: handle_3
+    4300234: handle_2
+    4300236: handle_1
+    4300238: yard_door_door
+    4300240: stair_body
+    4300242: stair_handle
+    4300244: deco_wall_2_out
+    4300246: deco_wall_2_in_foot
+    4300248: living_closet_body002
+    4300250: living_closet_door_down_left002
+    4300252: living_closet_door_down_right002
+    4300254: living_closet_door_up_left002
+    4300256: living_closet_door_up_right002
+    4300258: living_clset_board002
+    4300260: fire_place_out001
+    4300262: fire_place_in001
+    4300264: deco_wall_3_in_foot
+    4300266: living_window_med_frame001
+    4300268: living_window_med_body001
+    4300270: living_window_med_frame002
+    4300272: living_window_med_body002
+    4300274: deco_wall_4_in
+    4300276: deco_wall_4_in_foot
+    4300278: deco_wall_4_out_foot
+    4300280: living_door_body
+    4300282: living_door_handle_001
+    4300284: living_door_handle_002
+    4300286: living_door_handle__002
+    4300288: living_door_handle__003
+    4300290: living_door_handle_
+    4300292: living_door_handle_
+    4300294: living_door_handle__001
+    4300296: living_door_handle__001
+    4300298: deco_door_frame_out
+    4300300: window_frame
+    4300302: window_glass
+    4300304: deco_closet_door_frame
+    4300306: deco_closet_door_2
+    4300308: deco_closet_door_1
+    4300310: deco_wall_1_out
+    4300312: deco_wall_1_in_foot
+    4300314: window_up_
+    4300316: window_up_
+    4300318: frame_1
+    4300320: frame_1
+    4300322: glass_1
+    4300324: frame_2
+    4300326: stair_ground_handle_wood
+    4300328: stair_ground_handle_metal_
+    4300330: stair_ground_handle_metal_
+    4300332: stair_ground_handle_metal_
+    4300334: stair_ground_handle_metal_
+    4300336: stair_ground_handle_metal_
+    4300338: stair_ground_handle_metal_
+    4300340: stair_ground_handle_metal_
+    4300342: stair_ground_handle_metal_
+    4300344: stair_ground_handle_metal_
+    4300346: stair_ground_handle_metal_
+    4300348: stair_ground_handle_metal_
+    4300350: stair_ground_handle_metal_
+    4300352: stair_ground_handle_metal_
+    4300354: stair_ground_handle_metal_
+    4300356: stair_ground_frame_4
+    4300358: stair_ground_frame_3
+    4300360: stair_ground_frame_2
+    4300362: stair_ground_frame_1
+    4300364: Box019
+    4300366: Box018
+    4300368: Box017
+    4300370: Box016
+    4300372: Box015
+    4300374: Box014
+    4300376: Box013
+    4300378: Box012
+    4300380: Box011
+    4300382: Box010
+    4300384: Box009
+    4300386: Box008
+    4300388: Box007
+    4300390: Box006
+    4300392: yard_door_door002
+    4300394: handle_009
+    4300396: handle_010
+    4300398: handle_011
+    4300400: handle_012
+    4300402: yard_storage_door_frame002
+    4300404: storage_2_wall_4_out
+    4300406: storage_2_wall_2_foot
+    4300408: yard_door_door003
+    4300410: handle_013
+    4300412: handle_014
+    4300414: handle_015
+    4300416: handle_016
+    4300418: yard_storage_door_frame003
+    4300420: storage_2_wall_2_out
+    4300422: kitchen_wall_3_right_out
+    4300424: frame
+    4300426: frame_002
+    4300428: glass_002
+    4300430: frame_1
+    4300432: glass_1
+    4300434: yard_door_door004
+    4300436: handle_017
+    4300438: handle_018
+    4300440: handle_019
+    4300442: handle_020
+    4300444: yard_storage_door_frame004
+    4300446: kitchen_wall_3_left_out
+    4300448: kitchen_wall_3_left_out_foot
+    4300450: living_small_door_body001
+    4300452: living_small_door_handle_004
+    4300454: living_small_door_handle_005
+    4300456: living_small_door_handle_006
+    4300458: living_small_door_hanle_005
+    4300460: living_small_door_frame001
+    4300462: kitchen_wall_storage_foot
+    4300464: kitchen_wall_3_in_foot
+    4300466: kitchen_wall_2_out
+    4300468: kitchen_wall_2_in
+    4300470: skywell_wall_in
+    4300472: kitchen_wall_2_in_foot
+    4300474: kitchen_wall_middle_in
+    4300476: kitchen_wall_middle_in_foot
+    4300478: glass001
+    4300480: frame001
+    4300482: frame
+    4300484: glass
+    4300486: frame_1
+    4300488: frame_2
+    4300490: glass_up
+    4300492: frame_1
+    4300494: glass
+    4300496: window_1_frame
+    4300498: glass001
+    4300500: window_1_frame001
+    4300502: Box003
+    4300504: handle_4
+    4300506: handle_3
+    4300508: handle_2
+    4300510: handle_1
+    4300512: handle_005
+    4300514: handle_006
+    4300516: handle_007
+    4300518: handle_008
+    4300520: frame
+    4300522: door
+    4300524: back
+    4300526: foot
+    4300528: front
+    4300530: yard_door_body001
+    4300532: handle_021
+    4300534: handle_022
+    4300536: handle_023
+    4300538: handle_024
+    4300540: yard_door_frame001
+    4300542: a1_ceiling_1
+    4300544: a1_ceiling_2
+    4300546: a1_ceiling_3
+    4300548: a1_ceiling_front
+    4300550: a1_front_stair
+    4300552: glass_1
+    4300554: glass_2
+    4300556: window_frame
+    4300558: roof
+    4300560: a1_front_stair_edge
+    4300562: a1_fence
+    4300564: a1_front_stair003
+    4300566: a2_floor_storage_1
+    4300568: a2_floor_deco
+    4300570: a2_floor_storage_2
+    4300572: a2_floor_kitchen
+    4300574: a2_floor_sky_well
+    4300576: hallway_wall_4_out
+    4300578: hallway_2_wall_4_out
+    4300580: front_door_edge
+    4300582: front_wall_4
+    4300584: coal_wall_4
+    4300586: kitchen_wall_4_out
+    4300588: hallway_2_wall_4_in
+    4300590: hallway_2_wall_4_in_foot
+    4300592: kitchen_wall_4_in
+    4300594: kitchen_wall_4_in_foot
+    4300596: hallway_door_wall
+    4300598: yard_door_body002
+    4300600: handle_025
+    4300602: handle_026
+    4300604: handle_027
+    4300606: handle_028
+    4300608: yard_door_frame002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

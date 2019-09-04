@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: a4d6845ed504642eb9d5b48987e9e7a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box006
+    100004: Box007
+    100006: Box008
+    100008: Box009
+    100010: Box010
+    100012: Box011
+    100014: Box012
+    100016: Box013
+    100018: Box014
+    100020: Box015
+    100022: Box016
+    100024: Box017
+    100026: Box018
+    100028: Box019
+    100030: stair_ground_frame_1
+    100032: stair_ground_frame_2
+    100034: stair_ground_frame_3
+    100036: stair_ground_frame_4
+    100038: stair_ground_handle_metal_
+    100040: stair_ground_handle_metal_ 1
+    100042: stair_ground_handle_metal_ 10
+    100044: stair_ground_handle_metal_ 11
+    100046: stair_ground_handle_metal_ 12
+    100048: stair_ground_handle_metal_ 13
+    100050: stair_ground_handle_metal_ 14
+    100052: stair_ground_handle_metal_ 2
+    100054: stair_ground_handle_metal_ 3
+    100056: stair_ground_handle_metal_ 4
+    100058: stair_ground_handle_metal_ 5
+    100060: stair_ground_handle_metal_ 6
+    100062: stair_ground_handle_metal_ 7
+    100064: stair_ground_handle_metal_ 8
+    100066: stair_ground_handle_metal_ 9
+    100068: stair_ground_handle_wood
+    400000: //RootNode
+    400002: Box006
+    400004: Box007
+    400006: Box008
+    400008: Box009
+    400010: Box010
+    400012: Box011
+    400014: Box012
+    400016: Box013
+    400018: Box014
+    400020: Box015
+    400022: Box016
+    400024: Box017
+    400026: Box018
+    400028: Box019
+    400030: stair_ground_frame_1
+    400032: stair_ground_frame_2
+    400034: stair_ground_frame_3
+    400036: stair_ground_frame_4
+    400038: stair_ground_handle_metal_
+    400040: stair_ground_handle_metal_ 1
+    400042: stair_ground_handle_metal_ 10
+    400044: stair_ground_handle_metal_ 11
+    400046: stair_ground_handle_metal_ 12
+    400048: stair_ground_handle_metal_ 13
+    400050: stair_ground_handle_metal_ 14
+    400052: stair_ground_handle_metal_ 2
+    400054: stair_ground_handle_metal_ 3
+    400056: stair_ground_handle_metal_ 4
+    400058: stair_ground_handle_metal_ 5
+    400060: stair_ground_handle_metal_ 6
+    400062: stair_ground_handle_metal_ 7
+    400064: stair_ground_handle_metal_ 8
+    400066: stair_ground_handle_metal_ 9
+    400068: stair_ground_handle_wood
+    2100000: No Name
+    2300000: Box006
+    2300002: Box007
+    2300004: Box008
+    2300006: Box009
+    2300008: Box010
+    2300010: Box011
+    2300012: Box012
+    2300014: Box013
+    2300016: Box014
+    2300018: Box015
+    2300020: Box016
+    2300022: Box017
+    2300024: Box018
+    2300026: Box019
+    2300028: stair_ground_frame_1
+    2300030: stair_ground_frame_2
+    2300032: stair_ground_frame_3
+    2300034: stair_ground_frame_4
+    2300036: stair_ground_handle_metal_ 1
+    2300038: stair_ground_handle_metal_ 10
+    2300040: stair_ground_handle_metal_ 11
+    2300042: stair_ground_handle_metal_ 12
+    2300044: stair_ground_handle_metal_ 13
+    2300046: stair_ground_handle_metal_ 14
+    2300048: stair_ground_handle_metal_ 2
+    2300050: stair_ground_handle_metal_ 3
+    2300052: stair_ground_handle_metal_ 4
+    2300054: stair_ground_handle_metal_ 5
+    2300056: stair_ground_handle_metal_ 6
+    2300058: stair_ground_handle_metal_ 7
+    2300060: stair_ground_handle_metal_ 8
+    2300062: stair_ground_handle_metal_ 9
+    2300064: stair_ground_handle_wood
+    3300000: Box006
+    3300002: Box007
+    3300004: Box008
+    3300006: Box009
+    3300008: Box010
+    3300010: Box011
+    3300012: Box012
+    3300014: Box013
+    3300016: Box014
+    3300018: Box015
+    3300020: Box016
+    3300022: Box017
+    3300024: Box018
+    3300026: Box019
+    3300028: stair_ground_frame_1
+    3300030: stair_ground_frame_2
+    3300032: stair_ground_frame_3
+    3300034: stair_ground_frame_4
+    3300036: stair_ground_handle_metal_ 1
+    3300038: stair_ground_handle_metal_ 10
+    3300040: stair_ground_handle_metal_ 11
+    3300042: stair_ground_handle_metal_ 12
+    3300044: stair_ground_handle_metal_ 13
+    3300046: stair_ground_handle_metal_ 14
+    3300048: stair_ground_handle_metal_ 2
+    3300050: stair_ground_handle_metal_ 3
+    3300052: stair_ground_handle_metal_ 4
+    3300054: stair_ground_handle_metal_ 5
+    3300056: stair_ground_handle_metal_ 6
+    3300058: stair_ground_handle_metal_ 7
+    3300060: stair_ground_handle_metal_ 8
+    3300062: stair_ground_handle_metal_ 9
+    3300064: stair_ground_handle_wood
+    4300000: stair_ground_frame_1
+    4300002: stair_ground_frame_4
+    4300004: stair_ground_frame_3
+    4300006: stair_ground_frame_2
+    4300008: stair_ground_handle_metal_
+    4300010: stair_ground_handle_metal_
+    4300012: stair_ground_handle_metal_
+    4300014: stair_ground_handle_metal_
+    4300016: stair_ground_handle_metal_
+    4300018: stair_ground_handle_metal_
+    4300020: stair_ground_handle_metal_
+    4300022: stair_ground_handle_metal_
+    4300024: stair_ground_handle_metal_
+    4300026: stair_ground_handle_metal_
+    4300028: stair_ground_handle_metal_
+    4300030: stair_ground_handle_metal_
+    4300032: stair_ground_handle_metal_
+    4300034: stair_ground_handle_metal_
+    4300036: stair_ground_handle_wood
+    4300038: Box006
+    4300040: Box007
+    4300042: Box008
+    4300044: Box009
+    4300046: Box010
+    4300048: Box011
+    4300050: Box012
+    4300052: Box013
+    4300054: Box014
+    4300056: Box015
+    4300058: Box016
+    4300060: Box017
+    4300062: Box018
+    4300064: Box019
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

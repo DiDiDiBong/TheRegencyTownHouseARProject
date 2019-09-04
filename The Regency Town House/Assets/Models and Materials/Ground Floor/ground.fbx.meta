@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: bc67472eab4f348c9aaab8bd11e1959f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 13
+    100002: a1_ceiling_1
+    100004: a1_ceiling_2
+    100006: a1_ceiling_3
+    100008: a1_parlour_ceiling
+    100010: a2_floor_behind_meeting
+    100012: a2_floor_behind_stair
+    100014: a2_floor_meeting
+    100016: a2_floor_toilet
+    100018: base
+    100020: behind_meeting_wall_1
+    100022: behind_meeting_wall_2
+    100024: Box001
+    100026: Box001 1
+    100028: Box002
+    100030: Box002 1
+    100032: Box002 2
+    100034: Box003
+    100036: Box003 1
+    100038: Box003 2
+    100040: Box004
+    100042: Box005
+    100044: Box006
+    100046: Box006 1
+    100048: Box007
+    100050: Box007 1
+    100052: Box008
+    100054: Box008 1
+    100056: Box009
+    100058: Box009 1
+    100060: Box010
+    100062: Box010 1
+    100064: Box011
+    100066: Box011 1
+    100068: Box012
+    100070: Box012 1
+    100072: Box013
+    100074: Box014
+    100076: Box014 1
+    100078: Box015
+    100080: Box015 1
+    100082: Box016
+    100084: Box017
+    100086: Box018
+    100088: Box019
+    100090: Box026
+    100092: Box027
+    100094: Box028
+    100096: Box055
+    100098: Cylinder001
+    100100: dining_deco_1
+    100102: dining_wall_
+    100104: dining_wall_1_in
+    100106: dining_wall_2_in
+    100108: dining_wall_2_in_foot
+    100110: dining_wall_2_out
+    100112: dining_wall_4_1_out
+    100114: dining_wall_4_1_out_foot
+    100116: dining_wall_4_in
+    100118: dining_wall_4_in_foot
+    100120: dining_window_1
+    100122: dining_window_2
+    100124: door
+    100126: door 1
+    100128: door 2
+    100130: door001
+    100132: door002
+    100134: door_002
+    100136: door_dining
+    100138: door_dining001
+    100140: door_frame
+    100142: door_left
+    100144: door_left001
+    100146: fire_place_dining
+    100148: fire_place_in
+    100150: fire_place_meeting_room_
+    100152: fire_place_meeting_room_ 1
+    100154: fire_place_meeting_room_ 2
+    100156: fire_place_out
+    100158: fire_place_parlour
+    100160: fire_place_parlour 1
+    100162: fire_place_parlour 2
+    100164: floor_dining
+    100166: frame
+    100168: frame_door_dining
+    100170: frame_door_dining001
+    100172: frame_in
+    100174: frame_in001
+    100176: frame_left
+    100178: frame_out
+    100180: frame_out001
+    100182: frame_right
+    100184: frame_up
+    100186: gate_fame
+    100188: gate_frame_up
+    100190: glass
+    100192: glass 1
+    100194: glass001
+    100196: //RootNode
+    100198: ground_agte
+    100200: hallway_door
+    100202: hallway_door_wall
+    100204: hallway_wall_2_in
+    100206: hallway_wall_2_in001
+    100208: hallway_wall_2_in002
+    100210: hallway_wall_left_in
+    100212: hallway_wall_out
+    100214: hallway_wall_out001
+    100216: handle
+    100218: handle 1
+    100220: handle001
+    100222: handle_005
+    100224: handle_006
+    100226: handle_007
+    100228: handle_008
+    100230: handle_1
+    100232: handle_1 1
+    100234: handle_2
+    100236: handle_2 1
+    100238: handle_3
+    100240: handle_3 1
+    100242: handle_4
+    100244: handle_4 1
+    100246: left_wall_foot
+    100248: left_wall_foot001
+    100250: living_small_door_body
+    100252: living_small_door_door
+    100254: living_small_door_frame
+    100256: living_small_door_handle
+    100258: living_small_door_handle_001
+    100260: living_small_door_handle_002
+    100262: living_small_door_handle_003
+    100264: living_small_door_hanle_004
+    100266: meeting_room_corner_foot
+    100268: meeting_room_door
+    100270: meeting_room_door_002
+    100272: meeting_room_door_003
+    100274: meeting_room_door_004
+    100276: meeting_room_door_1
+    100278: meeting_room_door_frame
+    100280: meeting_room_wall_1_out
+    100282: meeting_room_wall_1_out001
+    100284: meeting_room_wall_1_out002
+    100286: meeting_room_wall_2_foot
+    100288: meeting_room_wall_2_in
+    100290: meeting_room_wall_2_out
+    100292: meeting_room_wall_3_in
+    100294: meeting_room_wall_3_in_foot
+    100296: meeting_room_wall_3_out
+    100298: meeting_room_wall_3_out_foot
+    100300: meeting_wall_4_fireplace
+    100302: metting_room_corner_in
+    100304: metting_room_corner_out
+    100306: mirror_dining
+    100308: out_wall_ground
+    100310: parlour_floor
+    100312: parlour_wall_1_foot
+    100314: parlour_wall_1_in
+    100316: parlour_wall_1_out
+    100318: parlour_wall_2_in
+    100320: parlour_wall_2_in_foot
+    100322: parlour_wall_2_out
+    100324: parlour_wall_3_in
+    100326: parlour_wall_4_in
+    100328: parlour_wall_4_in_foot
+    100330: parlour_wall_4_out
+    100332: parlour_wall_4_out_foot
+    100334: parlour_window
+    100336: pillar_dining_left
+    100338: pillar_dining_right
+    100340: slide_door_glass
+    100342: slide_door_glass001
+    100344: slide_door_glass002
+    100346: slide_door_glass003
+    100348: slide_door_wood
+    100350: slide_door_wood001
+    100352: slide_door_wood002
+    100354: slide_door_wood003
+    100356: stair_ground
+    100358: stair_ground_cases
+    100360: stair_ground_frame_1
+    100362: stair_ground_frame_2
+    100364: stair_ground_frame_3
+    100366: stair_ground_frame_4
+    100368: stair_ground_handle_metal_
+    100370: stair_ground_handle_metal_ 1
+    100372: stair_ground_handle_metal_ 10
+    100374: stair_ground_handle_metal_ 11
+    100376: stair_ground_handle_metal_ 12
+    100378: stair_ground_handle_metal_ 13
+    100380: stair_ground_handle_metal_ 14
+    100382: stair_ground_handle_metal_ 2
+    100384: stair_ground_handle_metal_ 3
+    100386: stair_ground_handle_metal_ 4
+    100388: stair_ground_handle_metal_ 5
+    100390: stair_ground_handle_metal_ 6
+    100392: stair_ground_handle_metal_ 7
+    100394: stair_ground_handle_metal_ 8
+    100396: stair_ground_handle_metal_ 9
+    100398: stair_ground_handle_wood
+    100400: stepstone
+    100402: toielet_wall_2_in
+    100404: toilet_door
+    100406: toilet_door 1
+    100408: toilet_door_door
+    100410: toilet_door_frame
+    100412: toilet_door_frame001
+    100414: toilet_wall_1_in
+    100416: toilet_wall_1_out
+    100418: toilet_wall_2_out
+    100420: toilet_wall_4_foot
+    100422: toilet_wall_4_in
+    100424: toilet_wall_4_out
+    100426: under_stair_wall_4
+    100428: under_stair_wall_4_foot
+    100430: up
+    400000: 13
+    400002: a1_ceiling_1
+    400004: a1_ceiling_2
+    400006: a1_ceiling_3
+    400008: a1_parlour_ceiling
+    400010: a2_floor_behind_meeting
+    400012: a2_floor_behind_stair
+    400014: a2_floor_meeting
+    400016: a2_floor_toilet
+    400018: base
+    400020: behind_meeting_wall_1
+    400022: behind_meeting_wall_2
+    400024: Box001
+    400026: Box001 1
+    400028: Box002
+    400030: Box002 1
+    400032: Box002 2
+    400034: Box003
+    400036: Box003 1
+    400038: Box003 2
+    400040: Box004
+    400042: Box005
+    400044: Box006
+    400046: Box006 1
+    400048: Box007
+    400050: Box007 1
+    400052: Box008
+    400054: Box008 1
+    400056: Box009
+    400058: Box009 1
+    400060: Box010
+    400062: Box010 1
+    400064: Box011
+    400066: Box011 1
+    400068: Box012
+    400070: Box012 1
+    400072: Box013
+    400074: Box014
+    400076: Box014 1
+    400078: Box015
+    400080: Box015 1
+    400082: Box016
+    400084: Box017
+    400086: Box018
+    400088: Box019
+    400090: Box026
+    400092: Box027
+    400094: Box028
+    400096: Box055
+    400098: Cylinder001
+    400100: dining_deco_1
+    400102: dining_wall_
+    400104: dining_wall_1_in
+    400106: dining_wall_2_in
+    400108: dining_wall_2_in_foot
+    400110: dining_wall_2_out
+    400112: dining_wall_4_1_out
+    400114: dining_wall_4_1_out_foot
+    400116: dining_wall_4_in
+    400118: dining_wall_4_in_foot
+    400120: dining_window_1
+    400122: dining_window_2
+    400124: door
+    400126: door 1
+    400128: door 2
+    400130: door001
+    400132: door002
+    400134: door_002
+    400136: door_dining
+    400138: door_dining001
+    400140: door_frame
+    400142: door_left
+    400144: door_left001
+    400146: fire_place_dining
+    400148: fire_place_in
+    400150: fire_place_meeting_room_
+    400152: fire_place_meeting_room_ 1
+    400154: fire_place_meeting_room_ 2
+    400156: fire_place_out
+    400158: fire_place_parlour
+    400160: fire_place_parlour 1
+    400162: fire_place_parlour 2
+    400164: floor_dining
+    400166: frame
+    400168: frame_door_dining
+    400170: frame_door_dining001
+    400172: frame_in
+    400174: frame_in001
+    400176: frame_left
+    400178: frame_out
+    400180: frame_out001
+    400182: frame_right
+    400184: frame_up
+    400186: gate_fame
+    400188: gate_frame_up
+    400190: glass
+    400192: glass 1
+    400194: glass001
+    400196: //RootNode
+    400198: ground_agte
+    400200: hallway_door
+    400202: hallway_door_wall
+    400204: hallway_wall_2_in
+    400206: hallway_wall_2_in001
+    400208: hallway_wall_2_in002
+    400210: hallway_wall_left_in
+    400212: hallway_wall_out
+    400214: hallway_wall_out001
+    400216: handle
+    400218: handle 1
+    400220: handle001
+    400222: handle_005
+    400224: handle_006
+    400226: handle_007
+    400228: handle_008
+    400230: handle_1
+    400232: handle_1 1
+    400234: handle_2
+    400236: handle_2 1
+    400238: handle_3
+    400240: handle_3 1
+    400242: handle_4
+    400244: handle_4 1
+    400246: left_wall_foot
+    400248: left_wall_foot001
+    400250: living_small_door_body
+    400252: living_small_door_door
+    400254: living_small_door_frame
+    400256: living_small_door_handle
+    400258: living_small_door_handle_001
+    400260: living_small_door_handle_002
+    400262: living_small_door_handle_003
+    400264: living_small_door_hanle_004
+    400266: meeting_room_corner_foot
+    400268: meeting_room_door
+    400270: meeting_room_door_002
+    400272: meeting_room_door_003
+    400274: meeting_room_door_004
+    400276: meeting_room_door_1
+    400278: meeting_room_door_frame
+    400280: meeting_room_wall_1_out
+    400282: meeting_room_wall_1_out001
+    400284: meeting_room_wall_1_out002
+    400286: meeting_room_wall_2_foot
+    400288: meeting_room_wall_2_in
+    400290: meeting_room_wall_2_out
+    400292: meeting_room_wall_3_in
+    400294: meeting_room_wall_3_in_foot
+    400296: meeting_room_wall_3_out
+    400298: meeting_room_wall_3_out_foot
+    400300: meeting_wall_4_fireplace
+    400302: metting_room_corner_in
+    400304: metting_room_corner_out
+    400306: mirror_dining
+    400308: out_wall_ground
+    400310: parlour_floor
+    400312: parlour_wall_1_foot
+    400314: parlour_wall_1_in
+    400316: parlour_wall_1_out
+    400318: parlour_wall_2_in
+    400320: parlour_wall_2_in_foot
+    400322: parlour_wall_2_out
+    400324: parlour_wall_3_in
+    400326: parlour_wall_4_in
+    400328: parlour_wall_4_in_foot
+    400330: parlour_wall_4_out
+    400332: parlour_wall_4_out_foot
+    400334: parlour_window
+    400336: pillar_dining_left
+    400338: pillar_dining_right
+    400340: slide_door_glass
+    400342: slide_door_glass001
+    400344: slide_door_glass002
+    400346: slide_door_glass003
+    400348: slide_door_wood
+    400350: slide_door_wood001
+    400352: slide_door_wood002
+    400354: slide_door_wood003
+    400356: stair_ground
+    400358: stair_ground_cases
+    400360: stair_ground_frame_1
+    400362: stair_ground_frame_2
+    400364: stair_ground_frame_3
+    400366: stair_ground_frame_4
+    400368: stair_ground_handle_metal_
+    400370: stair_ground_handle_metal_ 1
+    400372: stair_ground_handle_metal_ 10
+    400374: stair_ground_handle_metal_ 11
+    400376: stair_ground_handle_metal_ 12
+    400378: stair_ground_handle_metal_ 13
+    400380: stair_ground_handle_metal_ 14
+    400382: stair_ground_handle_metal_ 2
+    400384: stair_ground_handle_metal_ 3
+    400386: stair_ground_handle_metal_ 4
+    400388: stair_ground_handle_metal_ 5
+    400390: stair_ground_handle_metal_ 6
+    400392: stair_ground_handle_metal_ 7
+    400394: stair_ground_handle_metal_ 8
+    400396: stair_ground_handle_metal_ 9
+    400398: stair_ground_handle_wood
+    400400: stepstone
+    400402: toielet_wall_2_in
+    400404: toilet_door
+    400406: toilet_door 1
+    400408: toilet_door_door
+    400410: toilet_door_frame
+    400412: toilet_door_frame001
+    400414: toilet_wall_1_in
+    400416: toilet_wall_1_out
+    400418: toilet_wall_2_out
+    400420: toilet_wall_4_foot
+    400422: toilet_wall_4_in
+    400424: toilet_wall_4_out
+    400426: under_stair_wall_4
+    400428: under_stair_wall_4_foot
+    400430: up
+    2100000: No Name
+    2300000: 13
+    2300002: a1_ceiling_1
+    2300004: a1_ceiling_2
+    2300006: a1_ceiling_3
+    2300008: a1_parlour_ceiling
+    2300010: a2_floor_behind_meeting
+    2300012: a2_floor_behind_stair
+    2300014: a2_floor_meeting
+    2300016: a2_floor_toilet
+    2300018: base
+    2300020: behind_meeting_wall_1
+    2300022: behind_meeting_wall_2
+    2300024: Box001
+    2300026: Box001 1
+    2300028: Box002
+    2300030: Box002 1
+    2300032: Box002 2
+    2300034: Box003
+    2300036: Box003 1
+    2300038: Box003 2
+    2300040: Box004
+    2300042: Box005
+    2300044: Box006
+    2300046: Box006 1
+    2300048: Box007
+    2300050: Box007 1
+    2300052: Box008
+    2300054: Box008 1
+    2300056: Box009
+    2300058: Box009 1
+    2300060: Box010
+    2300062: Box010 1
+    2300064: Box011
+    2300066: Box011 1
+    2300068: Box012
+    2300070: Box012 1
+    2300072: Box013
+    2300074: Box014
+    2300076: Box014 1
+    2300078: Box015
+    2300080: Box015 1
+    2300082: Box016
+    2300084: Box017
+    2300086: Box018
+    2300088: Box019
+    2300090: Box026
+    2300092: Box027
+    2300094: Box028
+    2300096: Box055
+    2300098: Cylinder001
+    2300100: dining_deco_1
+    2300102: dining_wall_
+    2300104: dining_wall_1_in
+    2300106: dining_wall_2_in
+    2300108: dining_wall_2_in_foot
+    2300110: dining_wall_2_out
+    2300112: dining_wall_4_1_out
+    2300114: dining_wall_4_1_out_foot
+    2300116: dining_wall_4_in
+    2300118: dining_wall_4_in_foot
+    2300120: dining_window_1
+    2300122: dining_window_2
+    2300124: door
+    2300126: door 1
+    2300128: door 2
+    2300130: door001
+    2300132: door002
+    2300134: fire_place_in
+    2300136: fire_place_meeting_room_ 1
+    2300138: fire_place_meeting_room_ 2
+    2300140: fire_place_out
+    2300142: fire_place_parlour 1
+    2300144: fire_place_parlour 2
+    2300146: floor_dining
+    2300148: frame
+    2300150: frame_in
+    2300152: frame_in001
+    2300154: frame_out
+    2300156: frame_out001
+    2300158: gate_fame
+    2300160: gate_frame_up
+    2300162: glass
+    2300164: glass 1
+    2300166: glass001
+    2300168: hallway_door_wall
+    2300170: hallway_wall_2_in
+    2300172: hallway_wall_2_in001
+    2300174: hallway_wall_2_in002
+    2300176: hallway_wall_left_in
+    2300178: hallway_wall_out
+    2300180: hallway_wall_out001
+    2300182: handle_005
+    2300184: handle_006
+    2300186: handle_007
+    2300188: handle_008
+    2300190: handle_1
+    2300192: handle_1 1
+    2300194: handle_2
+    2300196: handle_2 1
+    2300198: handle_3
+    2300200: handle_3 1
+    2300202: handle_4
+    2300204: handle_4 1
+    2300206: left_wall_foot
+    2300208: left_wall_foot001
+    2300210: living_small_door_body
+    2300212: living_small_door_frame
+    2300214: living_small_door_handle_001
+    2300216: living_small_door_handle_002
+    2300218: living_small_door_handle_003
+    2300220: living_small_door_hanle_004
+    2300222: meeting_room_corner_foot
+    2300224: meeting_room_door_frame
+    2300226: meeting_room_wall_1_out
+    2300228: meeting_room_wall_1_out001
+    2300230: meeting_room_wall_1_out002
+    2300232: meeting_room_wall_2_foot
+    2300234: meeting_room_wall_2_in
+    2300236: meeting_room_wall_2_out
+    2300238: meeting_room_wall_3_in
+    2300240: meeting_room_wall_3_in_foot
+    2300242: meeting_room_wall_3_out
+    2300244: meeting_room_wall_3_out_foot
+    2300246: meeting_wall_4_fireplace
+    2300248: metting_room_corner_in
+    2300250: metting_room_corner_out
+    2300252: out_wall_ground
+    2300254: parlour_floor
+    2300256: parlour_wall_1_foot
+    2300258: parlour_wall_1_in
+    2300260: parlour_wall_1_out
+    2300262: parlour_wall_2_in
+    2300264: parlour_wall_2_in_foot
+    2300266: parlour_wall_2_out
+    2300268: parlour_wall_3_in
+    2300270: parlour_wall_4_in
+    2300272: parlour_wall_4_in_foot
+    2300274: parlour_wall_4_out
+    2300276: parlour_wall_4_out_foot
+    2300278: parlour_window
+    2300280: slide_door_glass
+    2300282: slide_door_glass001
+    2300284: slide_door_glass002
+    2300286: slide_door_glass003
+    2300288: slide_door_wood
+    2300290: slide_door_wood001
+    2300292: slide_door_wood002
+    2300294: slide_door_wood003
+    2300296: stair_ground_frame_1
+    2300298: stair_ground_frame_2
+    2300300: stair_ground_frame_3
+    2300302: stair_ground_frame_4
+    2300304: stair_ground_handle_metal_ 1
+    2300306: stair_ground_handle_metal_ 10
+    2300308: stair_ground_handle_metal_ 11
+    2300310: stair_ground_handle_metal_ 12
+    2300312: stair_ground_handle_metal_ 13
+    2300314: stair_ground_handle_metal_ 14
+    2300316: stair_ground_handle_metal_ 2
+    2300318: stair_ground_handle_metal_ 3
+    2300320: stair_ground_handle_metal_ 4
+    2300322: stair_ground_handle_metal_ 5
+    2300324: stair_ground_handle_metal_ 6
+    2300326: stair_ground_handle_metal_ 7
+    2300328: stair_ground_handle_metal_ 8
+    2300330: stair_ground_handle_metal_ 9
+    2300332: stair_ground_handle_wood
+    2300334: stepstone
+    2300336: toielet_wall_2_in
+    2300338: toilet_door 1
+    2300340: toilet_door_frame
+    2300342: toilet_door_frame001
+    2300344: toilet_wall_1_in
+    2300346: toilet_wall_1_out
+    2300348: toilet_wall_2_out
+    2300350: toilet_wall_4_foot
+    2300352: toilet_wall_4_in
+    2300354: toilet_wall_4_out
+    2300356: under_stair_wall_4
+    2300358: under_stair_wall_4_foot
+    2300360: up
+    3300000: 13
+    3300002: a1_ceiling_1
+    3300004: a1_ceiling_2
+    3300006: a1_ceiling_3
+    3300008: a1_parlour_ceiling
+    3300010: a2_floor_behind_meeting
+    3300012: a2_floor_behind_stair
+    3300014: a2_floor_meeting
+    3300016: a2_floor_toilet
+    3300018: base
+    3300020: behind_meeting_wall_1
+    3300022: behind_meeting_wall_2
+    3300024: Box001
+    3300026: Box001 1
+    3300028: Box002
+    3300030: Box002 1
+    3300032: Box002 2
+    3300034: Box003
+    3300036: Box003 1
+    3300038: Box003 2
+    3300040: Box004
+    3300042: Box005
+    3300044: Box006
+    3300046: Box006 1
+    3300048: Box007
+    3300050: Box007 1
+    3300052: Box008
+    3300054: Box008 1
+    3300056: Box009
+    3300058: Box009 1
+    3300060: Box010
+    3300062: Box010 1
+    3300064: Box011
+    3300066: Box011 1
+    3300068: Box012
+    3300070: Box012 1
+    3300072: Box013
+    3300074: Box014
+    3300076: Box014 1
+    3300078: Box015
+    3300080: Box015 1
+    3300082: Box016
+    3300084: Box017
+    3300086: Box018
+    3300088: Box019
+    3300090: Box026
+    3300092: Box027
+    3300094: Box028
+    3300096: Box055
+    3300098: Cylinder001
+    3300100: dining_deco_1
+    3300102: dining_wall_
+    3300104: dining_wall_1_in
+    3300106: dining_wall_2_in
+    3300108: dining_wall_2_in_foot
+    3300110: dining_wall_2_out
+    3300112: dining_wall_4_1_out
+    3300114: dining_wall_4_1_out_foot
+    3300116: dining_wall_4_in
+    3300118: dining_wall_4_in_foot
+    3300120: dining_window_1
+    3300122: dining_window_2
+    3300124: door
+    3300126: door 1
+    3300128: door 2
+    3300130: door001
+    3300132: door002
+    3300134: fire_place_in
+    3300136: fire_place_meeting_room_ 1
+    3300138: fire_place_meeting_room_ 2
+    3300140: fire_place_out
+    3300142: fire_place_parlour 1
+    3300144: fire_place_parlour 2
+    3300146: floor_dining
+    3300148: frame
+    3300150: frame_in
+    3300152: frame_in001
+    3300154: frame_out
+    3300156: frame_out001
+    3300158: gate_fame
+    3300160: gate_frame_up
+    3300162: glass
+    3300164: glass 1
+    3300166: glass001
+    3300168: hallway_door_wall
+    3300170: hallway_wall_2_in
+    3300172: hallway_wall_2_in001
+    3300174: hallway_wall_2_in002
+    3300176: hallway_wall_left_in
+    3300178: hallway_wall_out
+    3300180: hallway_wall_out001
+    3300182: handle_005
+    3300184: handle_006
+    3300186: handle_007
+    3300188: handle_008
+    3300190: handle_1
+    3300192: handle_1 1
+    3300194: handle_2
+    3300196: handle_2 1
+    3300198: handle_3
+    3300200: handle_3 1
+    3300202: handle_4
+    3300204: handle_4 1
+    3300206: left_wall_foot
+    3300208: left_wall_foot001
+    3300210: living_small_door_body
+    3300212: living_small_door_frame
+    3300214: living_small_door_handle_001
+    3300216: living_small_door_handle_002
+    3300218: living_small_door_handle_003
+    3300220: living_small_door_hanle_004
+    3300222: meeting_room_corner_foot
+    3300224: meeting_room_door_frame
+    3300226: meeting_room_wall_1_out
+    3300228: meeting_room_wall_1_out001
+    3300230: meeting_room_wall_1_out002
+    3300232: meeting_room_wall_2_foot
+    3300234: meeting_room_wall_2_in
+    3300236: meeting_room_wall_2_out
+    3300238: meeting_room_wall_3_in
+    3300240: meeting_room_wall_3_in_foot
+    3300242: meeting_room_wall_3_out
+    3300244: meeting_room_wall_3_out_foot
+    3300246: meeting_wall_4_fireplace
+    3300248: metting_room_corner_in
+    3300250: metting_room_corner_out
+    3300252: out_wall_ground
+    3300254: parlour_floor
+    3300256: parlour_wall_1_foot
+    3300258: parlour_wall_1_in
+    3300260: parlour_wall_1_out
+    3300262: parlour_wall_2_in
+    3300264: parlour_wall_2_in_foot
+    3300266: parlour_wall_2_out
+    3300268: parlour_wall_3_in
+    3300270: parlour_wall_4_in
+    3300272: parlour_wall_4_in_foot
+    3300274: parlour_wall_4_out
+    3300276: parlour_wall_4_out_foot
+    3300278: parlour_window
+    3300280: slide_door_glass
+    3300282: slide_door_glass001
+    3300284: slide_door_glass002
+    3300286: slide_door_glass003
+    3300288: slide_door_wood
+    3300290: slide_door_wood001
+    3300292: slide_door_wood002
+    3300294: slide_door_wood003
+    3300296: stair_ground_frame_1
+    3300298: stair_ground_frame_2
+    3300300: stair_ground_frame_3
+    3300302: stair_ground_frame_4
+    3300304: stair_ground_handle_metal_ 1
+    3300306: stair_ground_handle_metal_ 10
+    3300308: stair_ground_handle_metal_ 11
+    3300310: stair_ground_handle_metal_ 12
+    3300312: stair_ground_handle_metal_ 13
+    3300314: stair_ground_handle_metal_ 14
+    3300316: stair_ground_handle_metal_ 2
+    3300318: stair_ground_handle_metal_ 3
+    3300320: stair_ground_handle_metal_ 4
+    3300322: stair_ground_handle_metal_ 5
+    3300324: stair_ground_handle_metal_ 6
+    3300326: stair_ground_handle_metal_ 7
+    3300328: stair_ground_handle_metal_ 8
+    3300330: stair_ground_handle_metal_ 9
+    3300332: stair_ground_handle_wood
+    3300334: stepstone
+    3300336: toielet_wall_2_in
+    3300338: toilet_door 1
+    3300340: toilet_door_frame
+    3300342: toilet_door_frame001
+    3300344: toilet_wall_1_in
+    3300346: toilet_wall_1_out
+    3300348: toilet_wall_2_out
+    3300350: toilet_wall_4_foot
+    3300352: toilet_wall_4_in
+    3300354: toilet_wall_4_out
+    3300356: under_stair_wall_4
+    3300358: under_stair_wall_4_foot
+    3300360: up
+    4300000: a1_ceiling_3
+    4300002: stair_ground_handle_wood
+    4300004: stair_ground_handle_metal_
+    4300006: stair_ground_handle_metal_
+    4300008: stair_ground_handle_metal_
+    4300010: stair_ground_handle_metal_
+    4300012: stair_ground_handle_metal_
+    4300014: stair_ground_handle_metal_
+    4300016: stair_ground_handle_metal_
+    4300018: stair_ground_handle_metal_
+    4300020: stair_ground_handle_metal_
+    4300022: stair_ground_handle_metal_
+    4300024: stair_ground_handle_metal_
+    4300026: stair_ground_handle_metal_
+    4300028: stair_ground_handle_metal_
+    4300030: stair_ground_handle_metal_
+    4300032: stair_ground_frame_1
+    4300034: Box019
+    4300036: Box018
+    4300038: Box017
+    4300040: Box016
+    4300042: Box015
+    4300044: Box014
+    4300046: Box013
+    4300048: Box012
+    4300050: Box011
+    4300052: Box010
+    4300054: Box009
+    4300056: Box008
+    4300058: Box007
+    4300060: Box006
+    4300062: stair_ground_frame_2
+    4300064: stair_ground_frame_3
+    4300066: stair_ground_frame_4
+    4300068: toilet_door_frame001
+    4300070: meeting_room_door_frame
+    4300072: slide_door_wood003
+    4300074: slide_door_glass003
+    4300076: slide_door_wood002
+    4300078: slide_door_glass002
+    4300080: slide_door_wood001
+    4300082: slide_door_glass001
+    4300084: slide_door_wood
+    4300086: slide_door_glass
+    4300088: toilet_door_frame
+    4300090: toilet_door
+    4300092: handle_4
+    4300094: handle_3
+    4300096: handle_2
+    4300098: handle_1
+    4300100: fire_place_meeting_room_
+    4300102: fire_place_meeting_room_
+    4300104: meeting_wall_4_fireplace
+    4300106: meeting_room_wall_1_out002
+    4300108: meeting_room_wall_1_out001
+    4300110: meeting_room_wall_2_foot
+    4300112: meeting_room_wall_2_in
+    4300114: meeting_room_wall_3_in_foot
+    4300116: meeting_room_wall_3_out_foot
+    4300118: under_stair_wall_4_foot
+    4300120: toilet_wall_4_foot
+    4300122: metting_room_corner_in
+    4300124: meeting_room_corner_foot
+    4300126: meeting_room_wall_3_out
+    4300128: toilet_wall_1_in
+    4300130: toielet_wall_2_in
+    4300132: toilet_wall_4_in
+    4300134: a1_ceiling_1
+    4300136: a1_ceiling_2
+    4300138: behind_meeting_wall_2
+    4300140: behind_meeting_wall_1
+    4300142: a2_floor_behind_meeting
+    4300144: meeting_room_wall_1_out
+    4300146: meeting_room_wall_2_out
+    4300148: metting_room_corner_out
+    4300150: meeting_room_wall_3_in
+    4300152: a2_floor_meeting
+    4300154: toilet_wall_1_out
+    4300156: toilet_wall_2_out
+    4300158: a2_floor_toilet
+    4300160: a2_floor_behind_stair
+    4300162: toilet_wall_4_out
+    4300164: left_wall_foot001
+    4300166: hallway_wall_2_in001
+    4300168: hallway_wall_out001
+    4300170: under_stair_wall_4
+    4300172: base
+    4300174: dining_deco_1
+    4300176: dining_wall_
+    4300178: dining_wall_1_in
+    4300180: dining_wall_2_in
+    4300182: dining_wall_2_in_foot
+    4300184: dining_wall_2_out
+    4300186: dining_wall_4_1_out
+    4300188: dining_wall_4_in
+    4300190: dining_wall_4_1_out_foot
+    4300192: dining_wall_4_in_foot
+    4300194: dining_window_1
+    4300196: dining_window_2
+    4300198: door001
+    4300200: glass001
+    4300202: handle_005
+    4300204: handle_006
+    4300206: handle_007
+    4300208: handle_008
+    4300210: door
+    4300212: glass
+    4300214: handle_4
+    4300216: handle_3
+    4300218: handle_2
+    4300220: handle_1
+    4300222: Box004
+    4300224: Box011
+    4300226: Box010
+    4300228: Box003
+    4300230: Box006
+    4300232: Box009
+    4300234: Box008
+    4300236: Box002
+    4300238: Box005
+    4300240: Box007
+    4300242: Cylinder001
+    4300244: Box015
+    4300246: Box014
+    4300248: Box012
+    4300250: frame_out
+    4300252: frame_in
+    4300254: door
+    4300256: frame_out001
+    4300258: frame_in001
+    4300260: door002
+    4300262: fire_place_out
+    4300264: fire_place_in
+    4300266: floor_dining
+    4300268: fire_place_parlour
+    4300270: fire_place_parlour
+    4300272: hallway_wall_2_in
+    4300274: hallway_wall_left_in
+    4300276: hallway_wall_out
+    4300278: left_wall_foot
+    4300280: Box003
+    4300282: Box002
+    4300284: Box001
+    4300286: out_wall_ground
+    4300288: parlour_floor
+    4300290: parlour_wall_1_foot
+    4300292: parlour_wall_1_in
+    4300294: parlour_wall_1_out
+    4300296: parlour_wall_2_in
+    4300298: parlour_wall_2_in_foot
+    4300300: parlour_wall_2_out
+    4300302: parlour_wall_3_in
+    4300304: parlour_wall_4_in
+    4300306: parlour_wall_4_in_foot
+    4300308: parlour_wall_4_out
+    4300310: parlour_wall_4_out_foot
+    4300312: parlour_window
+    4300314: Box003
+    4300316: Box001
+    4300318: Box002
+    4300320: Box026
+    4300322: Box027
+    4300324: Box028
+    4300326: hallway_door_wall
+    4300328: living_small_door_frame
+    4300330: living_small_door_body
+    4300332: living_small_door_handle_001
+    4300334: living_small_door_handle_002
+    4300336: living_small_door_handle_003
+    4300338: living_small_door_hanle_004
+    4300340: hallway_wall_2_in002
+    4300342: a1_parlour_ceiling
+    4300344: Box055
+    4300346: 13
+    4300348: door
+    4300350: frame
+    4300352: glass
+    4300354: stepstone
+    4300356: up
+    4300358: gate_fame
+    4300360: gate_frame_up
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

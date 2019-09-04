@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 960f63fbc2a374454a5d6101ec2a133d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: Box001
+    100004: Box001 1
+    100006: Box002
+    100008: Box002 1
+    100010: Box002 2
+    100012: Box002 3
+    100014: Box003
+    100016: Box003 1
+    100018: Box003 2
+    100020: Box003 3
+    100022: Box004
+    100024: Box004 1
+    100026: Box004 2
+    100028: Box005
+    100030: Box006
+    100032: Box007
+    100034: Box008
+    100036: Box009
+    100038: Box010
+    100040: Box011
+    100042: Box012
+    100044: Box014
+    100046: Box015
+    100048: Box016
+    100050: Box019
+    100052: Box023
+    100054: Box026
+    100056: Box027
+    100058: Box028
+    100060: Cylinder001
+    100062: door
+    100064: door 1
+    100066: door001
+    100068: door_002
+    100070: door_dining
+    100072: door_frame
+    100074: door_left
+    100076: door_left001
+    100078: fire_place_dining
+    100080: fire_place_in
+    100082: fire_place_out
+    100084: frame_door_dining
+    100086: frame_in
+    100088: frame_left
+    100090: frame_out
+    100092: frame_right
+    100094: frame_up
+    100096: glass
+    100098: glass001
+    100100: handle
+    100102: handle001
+    100104: handle_005
+    100106: handle_006
+    100108: handle_007
+    100110: handle_008
+    100112: handle_1
+    100114: handle_2
+    100116: handle_3
+    100118: handle_4
+    100120: left_wall
+    100122: mirror_dining
+    100124: pillar_dining_left
+    100126: pillar_dining_right
+    100128: right_wall
+    100130: right_wall001
+    100132: right_wall003
+    100134: //RootNode
+    100136: wall_dinning_in
+    100138: wall_dinning_out
+    100140: window_holder
+    100142: window_holder006
+    400000: base
+    400002: Box001
+    400004: Box001 1
+    400006: Box002
+    400008: Box002 1
+    400010: Box002 2
+    400012: Box002 3
+    400014: Box003
+    400016: Box003 1
+    400018: Box003 2
+    400020: Box003 3
+    400022: Box004
+    400024: Box004 1
+    400026: Box004 2
+    400028: Box005
+    400030: Box006
+    400032: Box007
+    400034: Box008
+    400036: Box009
+    400038: Box010
+    400040: Box011
+    400042: Box012
+    400044: Box014
+    400046: Box015
+    400048: Box016
+    400050: Box019
+    400052: Box023
+    400054: Box026
+    400056: Box027
+    400058: Box028
+    400060: Cylinder001
+    400062: door
+    400064: door 1
+    400066: door001
+    400068: door_002
+    400070: door_dining
+    400072: door_frame
+    400074: door_left
+    400076: door_left001
+    400078: fire_place_dining
+    400080: fire_place_in
+    400082: fire_place_out
+    400084: frame_door_dining
+    400086: frame_in
+    400088: frame_left
+    400090: frame_out
+    400092: frame_right
+    400094: frame_up
+    400096: glass
+    400098: glass001
+    400100: handle
+    400102: handle001
+    400104: handle_005
+    400106: handle_006
+    400108: handle_007
+    400110: handle_008
+    400112: handle_1
+    400114: handle_2
+    400116: handle_3
+    400118: handle_4
+    400120: left_wall
+    400122: mirror_dining
+    400124: pillar_dining_left
+    400126: pillar_dining_right
+    400128: right_wall
+    400130: right_wall001
+    400132: right_wall003
+    400134: //RootNode
+    400136: wall_dinning_in
+    400138: wall_dinning_out
+    400140: window_holder
+    400142: window_holder006
+    2100000: No Name
+    2300000: base
+    2300002: Box001
+    2300004: Box001 1
+    2300006: Box002
+    2300008: Box002 1
+    2300010: Box002 2
+    2300012: Box002 3
+    2300014: Box003
+    2300016: Box003 1
+    2300018: Box003 2
+    2300020: Box003 3
+    2300022: Box004
+    2300024: Box004 1
+    2300026: Box004 2
+    2300028: Box005
+    2300030: Box006
+    2300032: Box007
+    2300034: Box008
+    2300036: Box009
+    2300038: Box010
+    2300040: Box011
+    2300042: Box012
+    2300044: Box014
+    2300046: Box015
+    2300048: Box016
+    2300050: Box019
+    2300052: Box023
+    2300054: Box026
+    2300056: Box027
+    2300058: Box028
+    2300060: Cylinder001
+    2300062: door
+    2300064: door 1
+    2300066: door001
+    2300068: fire_place_in
+    2300070: fire_place_out
+    2300072: frame_in
+    2300074: frame_out
+    2300076: glass
+    2300078: glass001
+    2300080: handle_005
+    2300082: handle_006
+    2300084: handle_007
+    2300086: handle_008
+    2300088: handle_1
+    2300090: handle_2
+    2300092: handle_3
+    2300094: handle_4
+    2300096: left_wall
+    2300098: right_wall
+    2300100: right_wall001
+    2300102: right_wall003
+    2300104: wall_dinning_in
+    2300106: wall_dinning_out
+    2300108: window_holder
+    2300110: window_holder006
+    3300000: base
+    3300002: Box001
+    3300004: Box001 1
+    3300006: Box002
+    3300008: Box002 1
+    3300010: Box002 2
+    3300012: Box002 3
+    3300014: Box003
+    3300016: Box003 1
+    3300018: Box003 2
+    3300020: Box003 3
+    3300022: Box004
+    3300024: Box004 1
+    3300026: Box004 2
+    3300028: Box005
+    3300030: Box006
+    3300032: Box007
+    3300034: Box008
+    3300036: Box009
+    3300038: Box010
+    3300040: Box011
+    3300042: Box012
+    3300044: Box014
+    3300046: Box015
+    3300048: Box016
+    3300050: Box019
+    3300052: Box023
+    3300054: Box026
+    3300056: Box027
+    3300058: Box028
+    3300060: Cylinder001
+    3300062: door
+    3300064: door 1
+    3300066: door001
+    3300068: fire_place_in
+    3300070: fire_place_out
+    3300072: frame_in
+    3300074: frame_out
+    3300076: glass
+    3300078: glass001
+    3300080: handle_005
+    3300082: handle_006
+    3300084: handle_007
+    3300086: handle_008
+    3300088: handle_1
+    3300090: handle_2
+    3300092: handle_3
+    3300094: handle_4
+    3300096: left_wall
+    3300098: right_wall
+    3300100: right_wall001
+    3300102: right_wall003
+    3300104: wall_dinning_in
+    3300106: wall_dinning_out
+    3300108: window_holder
+    3300110: window_holder006
+    4300000: window_holder006
+    4300002: window_holder
+    4300004: wall_dinning_out
+    4300006: wall_dinning_in
+    4300008: right_wall003
+    4300010: right_wall001
+    4300012: right_wall
+    4300014: Box026
+    4300016: Box027
+    4300018: Box028
+    4300020: Box003
+    4300022: Box001
+    4300024: Box002
+    4300026: Box003
+    4300028: Box002
+    4300030: Box001
+    4300032: left_wall
+    4300034: fire_place_out
+    4300036: fire_place_in
+    4300038: frame_out
+    4300040: frame_in
+    4300042: door
+    4300044: door001
+    4300046: glass001
+    4300048: handle_005
+    4300050: handle_006
+    4300052: handle_007
+    4300054: handle_008
+    4300056: door
+    4300058: glass
+    4300060: handle_4
+    4300062: handle_3
+    4300064: handle_2
+    4300066: handle_1
+    4300068: Box004
+    4300070: Box011
+    4300072: Box010
+    4300074: Box003
+    4300076: Box006
+    4300078: Box009
+    4300080: Box008
+    4300082: Box002
+    4300084: Box005
+    4300086: Box007
+    4300088: Cylinder001
+    4300090: Box015
+    4300092: Box014
+    4300094: Box012
+    4300096: Box023
+    4300098: Box019
+    4300100: Box016
+    4300102: Box004
+    4300104: Box004
+    4300106: Box003
+    4300108: Box002
+    4300110: base
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

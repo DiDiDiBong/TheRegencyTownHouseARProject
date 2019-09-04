@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ceiling
+  - wall_4
+  - wall_2
+  - Roof
+  - whole
+  - wall_1
+  - wall_3
+  - floor_base
+  - floor_ground
+  - ground_room
+  - floor_first
+  - floor_second
+  - floor_third
+  - first_room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - LeanTouchRayCast
+  - OnlyInReflect
+  - LeanSelect
+  - NotInReflect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
